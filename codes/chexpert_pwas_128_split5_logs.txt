@@ -1,0 +1,4483 @@
+Time to load train arrays
+Time to load train arrays
+Time to load train arrays
+(24578, 128, 128, 3) (24578,)
+(5824, 128, 128, 3) (5824,)
+Model:  1
+Protonet: Epoch 1 Train -- Loss: 54.8230 Acc: 0.1544
+Protonet_SE-Net: Epoch 1 Train -- Loss: 28.0008 Acc: 0.1522
+Protonet_CBAM: Epoch 1 Train -- Loss: 12.3821 Acc: 0.1594
+Protonet_ECA: Epoch 1 Train -- Loss: 38.9430 Acc: 0.1490
+Protonet: Epoch 2 Train -- Loss: 12.1386 Acc: 0.1815
+Protonet_SE-Net: Epoch 2 Train -- Loss: 7.0052 Acc: 0.1675
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.8922 Acc: 0.1819
+Protonet_ECA: Epoch 2 Train -- Loss: 9.4910 Acc: 0.1699
+Protonet :Prev Val Results -- Loss: 11.9366 Acc: 0.3653
+0.14018421936035175
+Protonet :Val Results -- Loss: 11.7964 Acc: 0.3908
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 7.4425 Acc: 0.3603
+0.6931419086456305
+Protonet_SE-Net :Val Results -- Loss: 6.7494 Acc: 0.3740
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.4709 Acc: 0.3665
+0.7022615814208981
+Protonet_CBAM :Val Results -- Loss: 6.7686 Acc: 0.3771
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.3484 Acc: 0.3565
+1.508186868667602
+Protonet_ECA :Val Results -- Loss: 7.8402 Acc: 0.3769
+
+
+Protonet: Epoch 3 Train -- Loss: 10.4902 Acc: 0.1943
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.7887 Acc: 0.1746
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6998 Acc: 0.1982
+Protonet_ECA: Epoch 3 Train -- Loss: 8.2812 Acc: 0.1817
+Protonet :Prev Val Results -- Loss: 11.7964 Acc: 0.3908
+0.6001934566497802
+Protonet :Val Results -- Loss: 11.1963 Acc: 0.3835
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7494 Acc: 0.3740
+0.16279485797882032
+Protonet_SE-Net :Val Results -- Loss: 6.5866 Acc: 0.3828
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7686 Acc: 0.3771
+0.13556055736541772
+Protonet_CBAM :Val Results -- Loss: 6.6331 Acc: 0.3868
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.8402 Acc: 0.3769
+3.078988176345826
+Protonet_ECA :Val Results -- Loss: 10.9192 Acc: 0.3700
+
+
+Protonet: Epoch 4 Train -- Loss: 9.1814 Acc: 0.1999
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6502 Acc: 0.1832
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5154 Acc: 0.2111
+Protonet_ECA: Epoch 4 Train -- Loss: 7.4657 Acc: 0.1989
+Protonet :Prev Val Results -- Loss: 11.1963 Acc: 0.3835
+2.5046510553359997
+Protonet :Val Results -- Loss: 8.6916 Acc: 0.4001
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5866 Acc: 0.3828
+0.08089178180694567
+Protonet_SE-Net :Val Results -- Loss: 6.6675 Acc: 0.4012
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6331 Acc: 0.3868
+0.10089235687255815
+Protonet_CBAM :Val Results -- Loss: 6.7340 Acc: 0.4036
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.9192 Acc: 0.3700
+3.766288424491883
+Protonet_ECA :Val Results -- Loss: 7.1529 Acc: 0.4095
+
+
+Protonet: Epoch 5 Train -- Loss: 8.2546 Acc: 0.2015
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6468 Acc: 0.1853
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.4988 Acc: 0.2096
+Protonet_ECA: Epoch 5 Train -- Loss: 7.0208 Acc: 0.2109
+Protonet :Prev Val Results -- Loss: 8.6916 Acc: 0.4001
+0.3486506872177131
+Protonet :Val Results -- Loss: 9.0403 Acc: 0.3891
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6675 Acc: 0.4012
+0.06695247268676763
+Protonet_SE-Net :Val Results -- Loss: 6.6005 Acc: 0.3841
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7340 Acc: 0.4036
+0.06164163208007789
+Protonet_CBAM :Val Results -- Loss: 6.6723 Acc: 0.3843
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.1529 Acc: 0.4095
+0.14705374526977533
+Protonet_ECA :Val Results -- Loss: 7.3000 Acc: 0.3841
+
+
+Protonet: Epoch 6 Train -- Loss: 7.5627 Acc: 0.2078
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6058 Acc: 0.1866
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4397 Acc: 0.2225
+Protonet_ECA: Epoch 6 Train -- Loss: 6.7898 Acc: 0.2177
+Protonet :Prev Val Results -- Loss: 9.0403 Acc: 0.3891
+1.535912519454956
+Protonet :Val Results -- Loss: 7.5043 Acc: 0.4037
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6005 Acc: 0.3841
+0.08571763801574672
+Protonet_SE-Net :Val Results -- Loss: 6.5148 Acc: 0.3983
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6723 Acc: 0.3843
+0.09654260730743403
+Protonet_CBAM :Val Results -- Loss: 6.5758 Acc: 0.3917
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.3000 Acc: 0.3841
+0.49887921428680393
+Protonet_ECA :Val Results -- Loss: 6.8011 Acc: 0.3880
+
+
+Protonet: Epoch 7 Train -- Loss: 7.0602 Acc: 0.2075
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.6096 Acc: 0.1826
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4246 Acc: 0.2171
+Protonet_ECA: Epoch 7 Train -- Loss: 6.6574 Acc: 0.2194
+Protonet :Prev Val Results -- Loss: 7.5043 Acc: 0.4037
+0.0255633926391603
+Protonet :Val Results -- Loss: 7.5299 Acc: 0.3897
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5148 Acc: 0.3983
+0.10221374607086187
+Protonet_SE-Net :Val Results -- Loss: 6.6170 Acc: 0.3881
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5758 Acc: 0.3917
+0.10042897129058836
+Protonet_CBAM :Val Results -- Loss: 6.6762 Acc: 0.3836
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8011 Acc: 0.3880
+0.2667019615173336
+Protonet_ECA :Val Results -- Loss: 7.0678 Acc: 0.3885
+
+
+Protonet: Epoch 8 Train -- Loss: 6.8144 Acc: 0.2174
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5846 Acc: 0.1932
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.3845 Acc: 0.2209
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5218 Acc: 0.2276
+Protonet :Prev Val Results -- Loss: 7.5299 Acc: 0.3897
+0.6762497873306277
+Protonet :Val Results -- Loss: 6.8537 Acc: 0.4004
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6170 Acc: 0.3881
+0.051594879150390405
+Protonet_SE-Net :Val Results -- Loss: 6.6686 Acc: 0.3968
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6762 Acc: 0.3836
+0.03666839790344234
+Protonet_CBAM :Val Results -- Loss: 6.7129 Acc: 0.3975
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0678 Acc: 0.3885
+0.19363864517211926
+Protonet_ECA :Val Results -- Loss: 6.8742 Acc: 0.3983
+
+
+Protonet: Epoch 9 Train -- Loss: 6.7060 Acc: 0.2133
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.6069 Acc: 0.1889
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.4023 Acc: 0.2310
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4786 Acc: 0.2305
+Protonet :Prev Val Results -- Loss: 6.8537 Acc: 0.4004
+0.13707882404327343
+Protonet :Val Results -- Loss: 6.7166 Acc: 0.4069
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6686 Acc: 0.3968
+0.09866749286651633
+Protonet_SE-Net :Val Results -- Loss: 6.5700 Acc: 0.3975
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7129 Acc: 0.3975
+0.0878716754913329
+Protonet_CBAM :Val Results -- Loss: 6.6250 Acc: 0.4024
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8742 Acc: 0.3983
+0.2339013414382931
+Protonet_ECA :Val Results -- Loss: 6.6403 Acc: 0.3980
+
+
+Protonet: Epoch 10 Train -- Loss: 6.6052 Acc: 0.2122
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.6001 Acc: 0.1890
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.3975 Acc: 0.2247
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4455 Acc: 0.2238
+Protonet :Prev Val Results -- Loss: 6.7166 Acc: 0.4069
+0.002507204055786083
+Protonet :Val Results -- Loss: 6.7141 Acc: 0.3987
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5700 Acc: 0.3975
+0.007750012397766071
+Protonet_SE-Net :Val Results -- Loss: 6.5622 Acc: 0.3903
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6250 Acc: 0.4024
+0.009398206710815593
+Protonet_CBAM :Val Results -- Loss: 6.6344 Acc: 0.3879
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6403 Acc: 0.3980
+0.057131497383117846
+Protonet_ECA :Val Results -- Loss: 6.6974 Acc: 0.3965
+
+
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.5775 Acc: 0.1892
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.3743 Acc: 0.2250
+Protonet_ECA: Epoch 11 Train -- Loss: 6.4038 Acc: 0.2287
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5622 Acc: 0.3903
+0.02331876373291042
+Protonet_SE-Net :Val Results -- Loss: 6.5855 Acc: 0.4008
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6344 Acc: 0.3879
+0.013552975654602228
+Protonet_CBAM :Val Results -- Loss: 6.6480 Acc: 0.4016
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6974 Acc: 0.3965
+0.04378981590271014
+Protonet_ECA :Val Results -- Loss: 6.6536 Acc: 0.3905
+
+
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.5900 Acc: 0.1905
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.3926 Acc: 0.2221
+Protonet_ECA: Epoch 12 Train -- Loss: 6.4081 Acc: 0.2240
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5855 Acc: 0.4008
+0.09034102630615237
+Protonet_SE-Net :Val Results -- Loss: 6.6759 Acc: 0.3977
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6480 Acc: 0.4016
+0.08625147819518997
+Protonet_CBAM :Val Results -- Loss: 6.7342 Acc: 0.3960
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6536 Acc: 0.3905
+0.0927747097015379
+Protonet_ECA :Val Results -- Loss: 6.7464 Acc: 0.3925
+
+
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.5915 Acc: 0.1919
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.4121 Acc: 0.2234
+Protonet_ECA: Epoch 13 Train -- Loss: 6.4212 Acc: 0.2238
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6759 Acc: 0.3977
+0.09140734958648711
+Protonet_SE-Net :Val Results -- Loss: 6.5845 Acc: 0.4035
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7342 Acc: 0.3960
+0.09146498775482126
+Protonet_CBAM :Val Results -- Loss: 6.6428 Acc: 0.3941
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7464 Acc: 0.3925
+0.09863108348846428
+Protonet_ECA :Val Results -- Loss: 6.6477 Acc: 0.3956
+
+
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.5579 Acc: 0.1930
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.3639 Acc: 0.2331
+Protonet_ECA: Epoch 14 Train -- Loss: 6.3730 Acc: 0.2314
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5845 Acc: 0.4035
+0.00602946949005112
+Protonet_SE-Net :Val Results -- Loss: 6.5784 Acc: 0.4077
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6428 Acc: 0.3941
+0.008513999938965178
+Protonet_CBAM :Val Results -- Loss: 6.6342 Acc: 0.4021
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6477 Acc: 0.3956
+0.011246187210082859
+Protonet_ECA :Val Results -- Loss: 6.6365 Acc: 0.3997
+
+
+Protonet_SE-Net: Epoch 15 Train -- Loss: 6.5815 Acc: 0.1875
+Protonet_CBAM: Epoch 15 Train -- Loss: 6.3705 Acc: 0.2218
+Protonet_ECA: Epoch 15 Train -- Loss: 6.3807 Acc: 0.2289
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5784 Acc: 0.4077
+0.08154267215728783
+Protonet_SE-Net :Val Results -- Loss: 6.6600 Acc: 0.3981
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6342 Acc: 0.4021
+0.08221013545990008
+Protonet_CBAM :Val Results -- Loss: 6.7165 Acc: 0.3917
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6365 Acc: 0.3997
+0.08593204307556146
+Protonet_ECA :Val Results -- Loss: 6.7224 Acc: 0.3917
+
+
+Protonet_SE-Net: Epoch 16 Train -- Loss: 6.5983 Acc: 0.1878
+Protonet_CBAM: Epoch 16 Train -- Loss: 6.4064 Acc: 0.2219
+Protonet_ECA: Epoch 16 Train -- Loss: 6.3974 Acc: 0.2286
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6600 Acc: 0.3981
+0.09225209045410221
+Protonet_SE-Net :Val Results -- Loss: 6.5677 Acc: 0.3915
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7165 Acc: 0.3917
+0.09136682605743385
+Protonet_CBAM :Val Results -- Loss: 6.6251 Acc: 0.3871
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7224 Acc: 0.3917
+0.08323473453521757
+Protonet_ECA :Val Results -- Loss: 6.6392 Acc: 0.3863
+
+
+Protonet_SE-Net: Epoch 17 Train -- Loss: 6.5937 Acc: 0.1834
+Protonet_CBAM: Epoch 17 Train -- Loss: 6.3819 Acc: 0.2235
+Protonet_ECA: Epoch 17 Train -- Loss: 6.3915 Acc: 0.2277
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5677 Acc: 0.3915
+0.05869001197814949
+Protonet_SE-Net :Val Results -- Loss: 6.5090 Acc: 0.4005
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6251 Acc: 0.3871
+0.05744557189941446
+Protonet_CBAM :Val Results -- Loss: 6.5676 Acc: 0.3997
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6392 Acc: 0.3863
+0.06758139896392823
+Protonet_ECA :Val Results -- Loss: 6.5716 Acc: 0.3937
+
+
+Protonet_SE-Net: Epoch 18 Train -- Loss: 6.5707 Acc: 0.1866
+Protonet_CBAM: Epoch 18 Train -- Loss: 6.3802 Acc: 0.2263
+Protonet_ECA: Epoch 18 Train -- Loss: 6.3707 Acc: 0.2308
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5090 Acc: 0.4005
+0.0050000314712530525
+Protonet_SE-Net :Val Results -- Loss: 6.5140 Acc: 0.3975
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5676 Acc: 0.3997
+0.005577835083007798
+Protonet_CBAM :Val Results -- Loss: 6.5732 Acc: 0.3981
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5716 Acc: 0.3937
+0.008098484039306797
+Protonet_ECA :Val Results -- Loss: 6.5797 Acc: 0.3935
+
+
+Protonet_SE-Net: Epoch 19 Train -- Loss: 6.6172 Acc: 0.1857
+Protonet_CBAM: Epoch 19 Train -- Loss: 6.4171 Acc: 0.2263
+Protonet_ECA: Epoch 19 Train -- Loss: 6.4159 Acc: 0.2313
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5140 Acc: 0.3975
+0.08142932319641094
+Protonet_SE-Net :Val Results -- Loss: 6.5955 Acc: 0.3936
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5732 Acc: 0.3981
+0.08255457210540751
+Protonet_CBAM :Val Results -- Loss: 6.6558 Acc: 0.3909
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5797 Acc: 0.3935
+0.08591971111297614
+Protonet_ECA :Val Results -- Loss: 6.6656 Acc: 0.3923
+
+
+Protonet_SE-Net: Epoch 20 Train -- Loss: 6.5736 Acc: 0.1909
+Protonet_CBAM: Epoch 20 Train -- Loss: 6.3736 Acc: 0.2224
+Protonet_ECA: Epoch 20 Train -- Loss: 6.3706 Acc: 0.2233
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5955 Acc: 0.3936
+0.08594293785095175
+Protonet_SE-Net :Val Results -- Loss: 6.5095 Acc: 0.3859
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6558 Acc: 0.3909
+0.09168842315673764
+Protonet_CBAM :Val Results -- Loss: 6.5641 Acc: 0.3899
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6656 Acc: 0.3923
+0.08505734825134237
+Protonet_ECA :Val Results -- Loss: 6.5806 Acc: 0.3928
+
+
+Protonet_SE-Net: Epoch 21 Train -- Loss: 6.5878 Acc: 0.1846
+Protonet_CBAM: Epoch 21 Train -- Loss: 6.3810 Acc: 0.2232
+Protonet_ECA: Epoch 21 Train -- Loss: 6.3828 Acc: 0.2252
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5095 Acc: 0.3859
+0.002301422119140639
+Protonet_SE-Net :Val Results -- Loss: 6.5072 Acc: 0.3944
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5641 Acc: 0.3899
+0.01345218753814681
+Protonet_CBAM :Val Results -- Loss: 6.5775 Acc: 0.3876
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5806 Acc: 0.3928
+0.003803428649902685
+Protonet_ECA :Val Results -- Loss: 6.5768 Acc: 0.3872
+
+
+Protonet_CBAM: Epoch 22 Train -- Loss: 6.4309 Acc: 0.2216
+Protonet_CBAM :Prev Val Results -- Loss: 6.5775 Acc: 0.3876
+0.028472610473632365
+Protonet_CBAM :Val Results -- Loss: 6.6060 Acc: 0.4005
+
+
+Protonet_CBAM: Epoch 23 Train -- Loss: 6.3789 Acc: 0.2278
+Protonet_CBAM :Prev Val Results -- Loss: 6.6060 Acc: 0.4005
+0.07615637874603287
+Protonet_CBAM :Val Results -- Loss: 6.6822 Acc: 0.3999
+
+
+Protonet_CBAM: Epoch 24 Train -- Loss: 6.4118 Acc: 0.2283
+Protonet_CBAM :Prev Val Results -- Loss: 6.6822 Acc: 0.3999
+0.08385249328613309
+Protonet_CBAM :Val Results -- Loss: 6.5983 Acc: 0.3993
+
+
+Protonet_CBAM: Epoch 25 Train -- Loss: 6.4031 Acc: 0.2237
+Protonet_CBAM :Prev Val Results -- Loss: 6.5983 Acc: 0.3993
+0.0030561628341674307
+Protonet_CBAM :Val Results -- Loss: 6.5953 Acc: 0.3927
+
+
+Model:  2
+Protonet: Epoch 1 Train -- Loss: 63.3961 Acc: 0.1522
+Protonet_SE-Net: Epoch 1 Train -- Loss: 24.8875 Acc: 0.1656
+Protonet_CBAM: Epoch 1 Train -- Loss: 11.0059 Acc: 0.1688
+Protonet_ECA: Epoch 1 Train -- Loss: 27.8931 Acc: 0.1494
+Protonet: Epoch 2 Train -- Loss: 11.5313 Acc: 0.1753
+Protonet_SE-Net: Epoch 2 Train -- Loss: 7.1393 Acc: 0.1697
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.7766 Acc: 0.1898
+Protonet_ECA: Epoch 2 Train -- Loss: 9.1248 Acc: 0.1741
+Protonet :Prev Val Results -- Loss: 14.2403 Acc: 0.3663
+1.4264563751220702
+Protonet :Val Results -- Loss: 12.8139 Acc: 0.3749
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 11.1586 Acc: 0.3532
+4.5401459264755255
+Protonet_SE-Net :Val Results -- Loss: 6.6185 Acc: 0.3823
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6748 Acc: 0.3876
+0.06768383121490551
+Protonet_CBAM :Val Results -- Loss: 6.6071 Acc: 0.3883
+
+
+Protonet_ECA :Prev Val Results -- Loss: 12.0035 Acc: 0.3525
+4.388964215278625
+Protonet_ECA :Val Results -- Loss: 7.6145 Acc: 0.3737
+
+
+Protonet: Epoch 3 Train -- Loss: 9.4985 Acc: 0.1966
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.7683 Acc: 0.1744
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6480 Acc: 0.1962
+Protonet_ECA: Epoch 3 Train -- Loss: 7.5890 Acc: 0.1947
+Protonet :Prev Val Results -- Loss: 12.8139 Acc: 0.3749
+4.457272382736205
+Protonet :Val Results -- Loss: 8.3566 Acc: 0.3919
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6185 Acc: 0.3823
+0.15585541725158691
+Protonet_SE-Net :Val Results -- Loss: 6.7743 Acc: 0.3927
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6071 Acc: 0.3883
+0.1363810768127447
+Protonet_CBAM :Val Results -- Loss: 6.7435 Acc: 0.4079
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.6145 Acc: 0.3737
+0.19657491302490282
+Protonet_ECA :Val Results -- Loss: 7.4179 Acc: 0.3903
+
+
+Protonet: Epoch 4 Train -- Loss: 8.4438 Acc: 0.1973
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6664 Acc: 0.1766
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5333 Acc: 0.2051
+Protonet_ECA: Epoch 4 Train -- Loss: 7.1324 Acc: 0.2051
+Protonet :Prev Val Results -- Loss: 8.3566 Acc: 0.3919
+0.788642148971558
+Protonet :Val Results -- Loss: 7.5680 Acc: 0.3827
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7743 Acc: 0.3927
+0.00791589641571111
+Protonet_SE-Net :Val Results -- Loss: 6.7822 Acc: 0.3851
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7435 Acc: 0.4079
+0.0552874040603637
+Protonet_CBAM :Val Results -- Loss: 6.7988 Acc: 0.3952
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.4179 Acc: 0.3903
+0.3336087045669558
+Protonet_ECA :Val Results -- Loss: 7.0843 Acc: 0.3779
+
+
+Protonet: Epoch 5 Train -- Loss: 7.6354 Acc: 0.2122
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6689 Acc: 0.1824
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.5079 Acc: 0.2096
+Protonet_ECA: Epoch 5 Train -- Loss: 6.7520 Acc: 0.2182
+Protonet :Prev Val Results -- Loss: 7.5680 Acc: 0.3827
+0.14931361579894986
+Protonet :Val Results -- Loss: 7.7173 Acc: 0.3895
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7822 Acc: 0.3851
+0.21802655506134094
+Protonet_SE-Net :Val Results -- Loss: 6.5642 Acc: 0.3936
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7988 Acc: 0.3952
+0.2393603239059452
+Protonet_CBAM :Val Results -- Loss: 6.5594 Acc: 0.4037
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0843 Acc: 0.3779
+0.11308188152313292
+Protonet_ECA :Val Results -- Loss: 7.1974 Acc: 0.3963
+
+
+Protonet: Epoch 6 Train -- Loss: 7.2496 Acc: 0.2204
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6436 Acc: 0.1858
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4648 Acc: 0.2139
+Protonet_ECA: Epoch 6 Train -- Loss: 6.5918 Acc: 0.2237
+Protonet :Prev Val Results -- Loss: 7.7173 Acc: 0.3895
+0.7638807802200311
+Protonet :Val Results -- Loss: 6.9534 Acc: 0.3987
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5642 Acc: 0.3936
+0.05948825550079384
+Protonet_SE-Net :Val Results -- Loss: 6.6237 Acc: 0.3895
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5594 Acc: 0.4037
+0.07599842262268108
+Protonet_CBAM :Val Results -- Loss: 6.6354 Acc: 0.4104
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.1974 Acc: 0.3963
+0.3668746891021728
+Protonet_ECA :Val Results -- Loss: 6.8305 Acc: 0.3909
+
+
+Protonet: Epoch 7 Train -- Loss: 6.9474 Acc: 0.2209
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.6449 Acc: 0.1824
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4740 Acc: 0.2134
+Protonet_ECA: Epoch 7 Train -- Loss: 6.5259 Acc: 0.2277
+Protonet :Prev Val Results -- Loss: 6.9534 Acc: 0.3987
+0.27692521953582716
+Protonet :Val Results -- Loss: 7.2303 Acc: 0.3979
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6237 Acc: 0.3895
+0.014721120834350288
+Protonet_SE-Net :Val Results -- Loss: 6.6384 Acc: 0.3993
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6354 Acc: 0.4104
+0.007989576339721083
+Protonet_CBAM :Val Results -- Loss: 6.6434 Acc: 0.4113
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8305 Acc: 0.3909
+0.09094399642944317
+Protonet_ECA :Val Results -- Loss: 6.9215 Acc: 0.3941
+
+
+Protonet: Epoch 8 Train -- Loss: 6.6764 Acc: 0.2282
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.6065 Acc: 0.1878
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4395 Acc: 0.2201
+Protonet_ECA: Epoch 8 Train -- Loss: 6.4499 Acc: 0.2294
+Protonet :Prev Val Results -- Loss: 7.2303 Acc: 0.3979
+0.2218227138519291
+Protonet :Val Results -- Loss: 7.4521 Acc: 0.3959
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6384 Acc: 0.3993
+0.01612296485900888
+Protonet_SE-Net :Val Results -- Loss: 6.6223 Acc: 0.3921
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6434 Acc: 0.4113
+0.025717599868773533
+Protonet_CBAM :Val Results -- Loss: 6.6177 Acc: 0.3987
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.9215 Acc: 0.3941
+0.0689578895568852
+Protonet_ECA :Val Results -- Loss: 6.8525 Acc: 0.3981
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6046 Acc: 0.2253
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.6154 Acc: 0.1825
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.4295 Acc: 0.2170
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4057 Acc: 0.2291
+Protonet :Prev Val Results -- Loss: 7.4521 Acc: 0.3959
+0.6718593511581421
+Protonet :Val Results -- Loss: 6.7803 Acc: 0.4099
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6223 Acc: 0.3921
+0.021152714729308464
+Protonet_SE-Net :Val Results -- Loss: 6.6011 Acc: 0.4071
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6177 Acc: 0.3987
+0.0013335886001586417
+Protonet_CBAM :Val Results -- Loss: 6.6190 Acc: 0.4029
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8525 Acc: 0.3981
+0.15557382583618118
+Protonet_ECA :Val Results -- Loss: 6.6969 Acc: 0.4080
+
+
+Protonet: Epoch 10 Train -- Loss: 6.4649 Acc: 0.2317
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.6059 Acc: 0.1859
+Protonet_ECA: Epoch 10 Train -- Loss: 6.3524 Acc: 0.2406
+Protonet :Prev Val Results -- Loss: 6.7803 Acc: 0.4099
+0.02740439319610566
+Protonet :Val Results -- Loss: 6.7529 Acc: 0.3949
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6011 Acc: 0.4071
+0.047210328102111454
+Protonet_SE-Net :Val Results -- Loss: 6.6483 Acc: 0.3941
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6969 Acc: 0.4080
+0.0003176460266116621
+Protonet_ECA :Val Results -- Loss: 6.6966 Acc: 0.3941
+
+
+Protonet: Epoch 11 Train -- Loss: 6.4659 Acc: 0.2334
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.6202 Acc: 0.1924
+Protonet :Prev Val Results -- Loss: 6.7529 Acc: 0.3949
+0.05938555145263713
+Protonet :Val Results -- Loss: 6.6935 Acc: 0.3952
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6483 Acc: 0.3941
+0.01316314411163333
+Protonet_SE-Net :Val Results -- Loss: 6.6352 Acc: 0.3980
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4259 Acc: 0.2286
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.6101 Acc: 0.1903
+Protonet :Prev Val Results -- Loss: 6.6935 Acc: 0.3952
+0.060670994758606156
+Protonet :Val Results -- Loss: 6.6328 Acc: 0.3891
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6352 Acc: 0.3980
+0.05021283912658703
+Protonet_SE-Net :Val Results -- Loss: 6.5850 Acc: 0.3933
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4063 Acc: 0.2338
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.6089 Acc: 0.1963
+Protonet :Prev Val Results -- Loss: 6.6328 Acc: 0.3891
+0.05408222293853715
+Protonet :Val Results -- Loss: 6.5787 Acc: 0.3836
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5850 Acc: 0.3933
+0.057741720199584456
+Protonet_SE-Net :Val Results -- Loss: 6.5272 Acc: 0.3913
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4023 Acc: 0.2276
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.5943 Acc: 0.1833
+Protonet :Prev Val Results -- Loss: 6.5787 Acc: 0.3836
+0.10841979503631549
+Protonet :Val Results -- Loss: 6.6872 Acc: 0.3953
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5272 Acc: 0.3913
+0.10535047721862778
+Protonet_SE-Net :Val Results -- Loss: 6.6326 Acc: 0.4056
+
+
+Protonet: Epoch 15 Train -- Loss: 6.4009 Acc: 0.2268
+Protonet_SE-Net: Epoch 15 Train -- Loss: 6.5913 Acc: 0.1904
+Protonet :Prev Val Results -- Loss: 6.6872 Acc: 0.3953
+0.07300207996368346
+Protonet :Val Results -- Loss: 6.6142 Acc: 0.3893
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6326 Acc: 0.4056
+0.06647489261627193
+Protonet_SE-Net :Val Results -- Loss: 6.5661 Acc: 0.3968
+
+
+Protonet: Epoch 16 Train -- Loss: 6.4214 Acc: 0.2319
+Protonet_SE-Net: Epoch 16 Train -- Loss: 6.6177 Acc: 0.1880
+Protonet :Prev Val Results -- Loss: 6.6142 Acc: 0.3893
+0.03267652988433767
+Protonet :Val Results -- Loss: 6.6468 Acc: 0.3947
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5661 Acc: 0.3968
+0.030369921684265222
+Protonet_SE-Net :Val Results -- Loss: 6.5965 Acc: 0.3947
+
+
+Protonet: Epoch 17 Train -- Loss: 6.3918 Acc: 0.2334
+Protonet_SE-Net: Epoch 17 Train -- Loss: 6.6060 Acc: 0.1922
+Protonet :Prev Val Results -- Loss: 6.6468 Acc: 0.3947
+0.0190070075988773
+Protonet :Val Results -- Loss: 6.6658 Acc: 0.3943
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5965 Acc: 0.3947
+0.017742515563964112
+Protonet_SE-Net :Val Results -- Loss: 6.6142 Acc: 0.3912
+
+
+Protonet: Epoch 18 Train -- Loss: 6.3757 Acc: 0.2298
+Protonet_SE-Net: Epoch 18 Train -- Loss: 6.5925 Acc: 0.1878
+Protonet :Prev Val Results -- Loss: 6.6658 Acc: 0.3943
+0.08159888076782273
+Protonet :Val Results -- Loss: 6.5842 Acc: 0.3891
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6142 Acc: 0.3912
+0.08934231376647883
+Protonet_SE-Net :Val Results -- Loss: 6.5249 Acc: 0.4035
+
+
+Protonet: Epoch 19 Train -- Loss: 6.3908 Acc: 0.2343
+Protonet_SE-Net: Epoch 19 Train -- Loss: 6.6021 Acc: 0.1856
+Protonet :Prev Val Results -- Loss: 6.5842 Acc: 0.3891
+0.01756480693817153
+Protonet :Val Results -- Loss: 6.6018 Acc: 0.3913
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5249 Acc: 0.4035
+0.02812713241577125
+Protonet_SE-Net :Val Results -- Loss: 6.5530 Acc: 0.3899
+
+
+Protonet: Epoch 20 Train -- Loss: 6.4141 Acc: 0.2280
+Protonet_SE-Net: Epoch 20 Train -- Loss: 6.6179 Acc: 0.1863
+Protonet :Prev Val Results -- Loss: 6.6018 Acc: 0.3913
+0.04362074184417786
+Protonet :Val Results -- Loss: 6.6454 Acc: 0.4083
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5530 Acc: 0.3899
+0.041305333137511724
+Protonet_SE-Net :Val Results -- Loss: 6.5943 Acc: 0.4048
+
+
+Protonet: Epoch 21 Train -- Loss: 6.3796 Acc: 0.2250
+Protonet_SE-Net: Epoch 21 Train -- Loss: 6.5869 Acc: 0.1867
+Protonet :Prev Val Results -- Loss: 6.6454 Acc: 0.4083
+0.005388871192932854
+Protonet :Val Results -- Loss: 6.6400 Acc: 0.4036
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5943 Acc: 0.4048
+0.004790699958800992
+Protonet_SE-Net :Val Results -- Loss: 6.5895 Acc: 0.3996
+
+
+Protonet: Epoch 22 Train -- Loss: 6.3595 Acc: 0.2268
+Protonet_SE-Net: Epoch 22 Train -- Loss: 6.5692 Acc: 0.1841
+Protonet :Prev Val Results -- Loss: 6.6400 Acc: 0.4036
+0.07868379783630441
+Protonet :Val Results -- Loss: 6.7187 Acc: 0.4040
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5895 Acc: 0.3996
+0.07858509635925337
+Protonet_SE-Net :Val Results -- Loss: 6.6681 Acc: 0.4037
+
+
+Protonet: Epoch 23 Train -- Loss: 6.3943 Acc: 0.2321
+Protonet_SE-Net: Epoch 23 Train -- Loss: 6.5928 Acc: 0.1866
+Protonet :Prev Val Results -- Loss: 6.7187 Acc: 0.4040
+0.06614909934997559
+Protonet :Val Results -- Loss: 6.6526 Acc: 0.3948
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6681 Acc: 0.4037
+0.06203361797332807
+Protonet_SE-Net :Val Results -- Loss: 6.6061 Acc: 0.3967
+
+
+Protonet: Epoch 24 Train -- Loss: 6.3923 Acc: 0.2336
+Protonet_SE-Net: Epoch 24 Train -- Loss: 6.6003 Acc: 0.1922
+Protonet :Prev Val Results -- Loss: 6.6526 Acc: 0.3948
+0.06922201156616214
+Protonet :Val Results -- Loss: 6.7218 Acc: 0.3919
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6061 Acc: 0.3967
+0.06273515987396294
+Protonet_SE-Net :Val Results -- Loss: 6.6688 Acc: 0.3931
+
+
+Protonet: Epoch 25 Train -- Loss: 6.3835 Acc: 0.2262
+Protonet_SE-Net: Epoch 25 Train -- Loss: 6.5882 Acc: 0.1835
+Protonet :Prev Val Results -- Loss: 6.7218 Acc: 0.3919
+0.048386385917663866
+Protonet :Val Results -- Loss: 6.6734 Acc: 0.3897
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6688 Acc: 0.3931
+0.049733532905579025
+Protonet_SE-Net :Val Results -- Loss: 6.6191 Acc: 0.3947
+
+
+Protonet: Epoch 26 Train -- Loss: 6.4043 Acc: 0.2332
+Protonet_SE-Net: Epoch 26 Train -- Loss: 6.6089 Acc: 0.1878
+Protonet :Prev Val Results -- Loss: 6.6734 Acc: 0.3897
+0.07106485080718983
+Protonet :Val Results -- Loss: 6.7445 Acc: 0.3984
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6191 Acc: 0.3947
+0.07274429321289055
+Protonet_SE-Net :Val Results -- Loss: 6.6918 Acc: 0.3947
+
+
+Protonet: Epoch 27 Train -- Loss: 6.4156 Acc: 0.2312
+Protonet_SE-Net: Epoch 27 Train -- Loss: 6.6136 Acc: 0.1912
+Protonet :Prev Val Results -- Loss: 6.7445 Acc: 0.3984
+0.09462113475799594
+Protonet :Val Results -- Loss: 6.6498 Acc: 0.4021
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6918 Acc: 0.3947
+0.09320160388946519
+Protonet_SE-Net :Val Results -- Loss: 6.5986 Acc: 0.4005
+
+
+Protonet: Epoch 28 Train -- Loss: 6.3804 Acc: 0.2305
+Protonet_SE-Net: Epoch 28 Train -- Loss: 6.5837 Acc: 0.1879
+Protonet :Prev Val Results -- Loss: 6.6498 Acc: 0.4021
+0.005752617835998564
+Protonet :Val Results -- Loss: 6.6441 Acc: 0.3963
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5986 Acc: 0.4005
+0.009145852088928486
+Protonet_SE-Net :Val Results -- Loss: 6.5895 Acc: 0.3868
+
+
+Protonet: Epoch 29 Train -- Loss: 6.3828 Acc: 0.2285
+Protonet_SE-Net: Epoch 29 Train -- Loss: 6.5912 Acc: 0.1856
+Protonet :Prev Val Results -- Loss: 6.6441 Acc: 0.3963
+0.012201250076294023
+Protonet :Val Results -- Loss: 6.6563 Acc: 0.3933
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5895 Acc: 0.3868
+0.002812236785889155
+Protonet_SE-Net :Val Results -- Loss: 6.5923 Acc: 0.3948
+
+
+Protonet: Epoch 30 Train -- Loss: 6.3962 Acc: 0.2323
+Protonet :Prev Val Results -- Loss: 6.6563 Acc: 0.3933
+0.026227600097655568
+Protonet :Val Results -- Loss: 6.6301 Acc: 0.3964
+
+
+Protonet: Epoch 31 Train -- Loss: 6.3964 Acc: 0.2306
+Protonet :Prev Val Results -- Loss: 6.6301 Acc: 0.3964
+0.03197474956512458
+Protonet :Val Results -- Loss: 6.5981 Acc: 0.3965
+
+
+Protonet: Epoch 32 Train -- Loss: 6.4011 Acc: 0.2313
+Protonet :Prev Val Results -- Loss: 6.5981 Acc: 0.3965
+0.0814756536483765
+Protonet :Val Results -- Loss: 6.6796 Acc: 0.3892
+
+
+Protonet: Epoch 33 Train -- Loss: 6.4037 Acc: 0.2265
+Protonet :Prev Val Results -- Loss: 6.6796 Acc: 0.3892
+0.034896908760070566
+Protonet :Val Results -- Loss: 6.7145 Acc: 0.3977
+
+
+Protonet: Epoch 34 Train -- Loss: 6.3764 Acc: 0.2307
+Protonet :Prev Val Results -- Loss: 6.7145 Acc: 0.3977
+0.08283825397491462
+Protonet :Val Results -- Loss: 6.6316 Acc: 0.3979
+
+
+Protonet: Epoch 35 Train -- Loss: 6.4254 Acc: 0.2274
+Protonet :Prev Val Results -- Loss: 6.6316 Acc: 0.3979
+0.03680829334258995
+Protonet :Val Results -- Loss: 6.6684 Acc: 0.3860
+
+
+Protonet: Epoch 36 Train -- Loss: 6.3949 Acc: 0.2345
+Protonet :Prev Val Results -- Loss: 6.6684 Acc: 0.3860
+0.027743357658386536
+Protonet :Val Results -- Loss: 6.6962 Acc: 0.3885
+
+
+Protonet: Epoch 37 Train -- Loss: 6.3783 Acc: 0.2290
+Protonet :Prev Val Results -- Loss: 6.6962 Acc: 0.3885
+0.07502235221862819
+Protonet :Val Results -- Loss: 6.6212 Acc: 0.3944
+
+
+Protonet: Epoch 38 Train -- Loss: 6.3788 Acc: 0.2235
+Protonet :Prev Val Results -- Loss: 6.6212 Acc: 0.3944
+0.037467489242554386
+Protonet :Val Results -- Loss: 6.6586 Acc: 0.4044
+
+
+Protonet: Epoch 39 Train -- Loss: 6.3785 Acc: 0.2349
+Protonet :Prev Val Results -- Loss: 6.6586 Acc: 0.4044
+0.027745360374450634
+Protonet :Val Results -- Loss: 6.6864 Acc: 0.3857
+
+
+Protonet: Epoch 40 Train -- Loss: 6.3952 Acc: 0.2275
+Protonet :Prev Val Results -- Loss: 6.6864 Acc: 0.3857
+0.06906239795684854
+Protonet :Val Results -- Loss: 6.6173 Acc: 0.3981
+
+
+Protonet: Epoch 41 Train -- Loss: 6.4190 Acc: 0.2313
+Protonet :Prev Val Results -- Loss: 6.6173 Acc: 0.3981
+0.01835904407501232
+Protonet :Val Results -- Loss: 6.6357 Acc: 0.3943
+
+
+Protonet: Epoch 42 Train -- Loss: 6.3997 Acc: 0.2292
+Protonet :Prev Val Results -- Loss: 6.6357 Acc: 0.3943
+0.000276523590088118
+Protonet :Val Results -- Loss: 6.6354 Acc: 0.3960
+
+
+Model:  3
+Protonet: Epoch 1 Train -- Loss: 100.9929 Acc: 0.1530
+Protonet_SE-Net: Epoch 1 Train -- Loss: 42.5056 Acc: 0.1484
+Protonet_CBAM: Epoch 1 Train -- Loss: 16.7782 Acc: 0.1706
+Protonet_ECA: Epoch 1 Train -- Loss: 35.7615 Acc: 0.1619
+Protonet: Epoch 2 Train -- Loss: 13.5066 Acc: 0.1739
+Protonet_SE-Net: Epoch 2 Train -- Loss: 8.0821 Acc: 0.1695
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.8115 Acc: 0.1896
+Protonet_ECA: Epoch 2 Train -- Loss: 11.2353 Acc: 0.1782
+Protonet :Prev Val Results -- Loss: 14.0239 Acc: 0.3648
+2.014303684234619
+Protonet :Val Results -- Loss: 12.0096 Acc: 0.3691
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 10.6689 Acc: 0.3527
+3.4603395643234247
+Protonet_SE-Net :Val Results -- Loss: 7.2086 Acc: 0.3617
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7368 Acc: 0.3991
+0.192980096817017
+Protonet_CBAM :Val Results -- Loss: 6.9298 Acc: 0.3892
+
+
+Protonet_ECA :Prev Val Results -- Loss: 13.5718 Acc: 0.3767
+4.3138498802185055
+Protonet_ECA :Val Results -- Loss: 9.2579 Acc: 0.3707
+
+
+Protonet: Epoch 3 Train -- Loss: 11.0426 Acc: 0.1885
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.8387 Acc: 0.1819
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6467 Acc: 0.2099
+Protonet_ECA: Epoch 3 Train -- Loss: 9.2249 Acc: 0.1925
+Protonet :Prev Val Results -- Loss: 12.0096 Acc: 0.3691
+0.4478745689392092
+Protonet :Val Results -- Loss: 12.4575 Acc: 0.3683
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 7.2086 Acc: 0.3617
+0.46619611740112266
+Protonet_SE-Net :Val Results -- Loss: 6.7424 Acc: 0.3813
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.9298 Acc: 0.3892
+0.276523662567139
+Protonet_CBAM :Val Results -- Loss: 6.6532 Acc: 0.4056
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.2579 Acc: 0.3707
+0.768459226608277
+Protonet_ECA :Val Results -- Loss: 8.4894 Acc: 0.3793
+
+
+Protonet: Epoch 4 Train -- Loss: 9.2671 Acc: 0.1956
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6355 Acc: 0.1883
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5057 Acc: 0.2113
+Protonet_ECA: Epoch 4 Train -- Loss: 7.9184 Acc: 0.2006
+Protonet :Prev Val Results -- Loss: 12.4575 Acc: 0.3683
+3.9186233882904045
+Protonet :Val Results -- Loss: 8.5389 Acc: 0.3828
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7424 Acc: 0.3813
+0.07863432693481442
+Protonet_SE-Net :Val Results -- Loss: 6.6638 Acc: 0.3939
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6532 Acc: 0.4056
+0.023240251541137624
+Protonet_CBAM :Val Results -- Loss: 6.6765 Acc: 0.3993
+
+
+Protonet_ECA :Prev Val Results -- Loss: 8.4894 Acc: 0.3793
+0.8130389337539672
+Protonet_ECA :Val Results -- Loss: 7.6764 Acc: 0.3980
+
+
+Protonet: Epoch 5 Train -- Loss: 8.4545 Acc: 0.2120
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.5929 Acc: 0.1965
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.4449 Acc: 0.2251
+Protonet_ECA: Epoch 5 Train -- Loss: 7.4311 Acc: 0.2147
+Protonet :Prev Val Results -- Loss: 8.5389 Acc: 0.3828
+0.5353853788375851
+Protonet :Val Results -- Loss: 8.0035 Acc: 0.3939
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6638 Acc: 0.3939
+0.016823577880859197
+Protonet_SE-Net :Val Results -- Loss: 6.6806 Acc: 0.3821
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6765 Acc: 0.3993
+0.01366469001770021
+Protonet_CBAM :Val Results -- Loss: 6.6901 Acc: 0.4088
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.6764 Acc: 0.3980
+0.17650547409057626
+Protonet_ECA :Val Results -- Loss: 7.8529 Acc: 0.3989
+
+
+Protonet: Epoch 6 Train -- Loss: 7.6667 Acc: 0.2205
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.5956 Acc: 0.2004
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4393 Acc: 0.2220
+Protonet_ECA: Epoch 6 Train -- Loss: 7.0199 Acc: 0.2194
+Protonet :Prev Val Results -- Loss: 8.0035 Acc: 0.3939
+0.5753478393554694
+Protonet :Val Results -- Loss: 7.4281 Acc: 0.4028
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6806 Acc: 0.3821
+0.08754823493957531
+Protonet_SE-Net :Val Results -- Loss: 6.5930 Acc: 0.3924
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6901 Acc: 0.4088
+0.08492908191680915
+Protonet_CBAM :Val Results -- Loss: 6.6052 Acc: 0.4092
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.8529 Acc: 0.3989
+0.9641502437591551
+Protonet_ECA :Val Results -- Loss: 6.8888 Acc: 0.4069
+
+
+Protonet: Epoch 7 Train -- Loss: 7.2201 Acc: 0.2236
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5459 Acc: 0.1908
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.3893 Acc: 0.2265
+Protonet_ECA: Epoch 7 Train -- Loss: 6.7569 Acc: 0.2251
+Protonet :Prev Val Results -- Loss: 7.4281 Acc: 0.4028
+0.2765811653137211
+Protonet :Val Results -- Loss: 7.1516 Acc: 0.3889
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5930 Acc: 0.3924
+0.017103917121887413
+Protonet_SE-Net :Val Results -- Loss: 6.6101 Acc: 0.3963
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6052 Acc: 0.4092
+0.018388526916504055
+Protonet_CBAM :Val Results -- Loss: 6.6236 Acc: 0.4004
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8888 Acc: 0.4069
+0.004755903244018533
+Protonet_ECA :Val Results -- Loss: 6.8840 Acc: 0.3988
+
+
+Protonet: Epoch 8 Train -- Loss: 6.8939 Acc: 0.2241
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5509 Acc: 0.1992
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4023 Acc: 0.2228
+Protonet_ECA: Epoch 8 Train -- Loss: 6.6168 Acc: 0.2216
+Protonet :Prev Val Results -- Loss: 7.1516 Acc: 0.3889
+0.24346065139770445
+Protonet :Val Results -- Loss: 6.9081 Acc: 0.4031
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6101 Acc: 0.3963
+0.05817055702209473
+Protonet_SE-Net :Val Results -- Loss: 6.5520 Acc: 0.3993
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6236 Acc: 0.4004
+0.049673158645630267
+Protonet_CBAM :Val Results -- Loss: 6.5739 Acc: 0.4088
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8840 Acc: 0.3988
+0.1749683742523196
+Protonet_ECA :Val Results -- Loss: 6.7090 Acc: 0.4044
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6402 Acc: 0.2272
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.4986 Acc: 0.1992
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.3426 Acc: 0.2328
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4544 Acc: 0.2276
+Protonet :Prev Val Results -- Loss: 6.9081 Acc: 0.4031
+0.27641388988494864
+Protonet :Val Results -- Loss: 6.6317 Acc: 0.4088
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5520 Acc: 0.3993
+0.060326732635497926
+Protonet_SE-Net :Val Results -- Loss: 6.6123 Acc: 0.3976
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5739 Acc: 0.4088
+0.038000835418701584
+Protonet_CBAM :Val Results -- Loss: 6.6119 Acc: 0.4149
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7090 Acc: 0.4044
+0.07517561054229738
+Protonet_ECA :Val Results -- Loss: 6.6339 Acc: 0.4093
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5773 Acc: 0.2254
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.5549 Acc: 0.2035
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.3915 Acc: 0.2327
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4643 Acc: 0.2278
+Protonet :Prev Val Results -- Loss: 6.6317 Acc: 0.4088
+0.006752842903137157
+Protonet :Val Results -- Loss: 6.6249 Acc: 0.4028
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6123 Acc: 0.3976
+0.06235976219177264
+Protonet_SE-Net :Val Results -- Loss: 6.5499 Acc: 0.3992
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6119 Acc: 0.4149
+0.0507182426452637
+Protonet_CBAM :Val Results -- Loss: 6.5612 Acc: 0.4056
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6339 Acc: 0.4093
+0.013244390487670898
+Protonet_ECA :Val Results -- Loss: 6.6206 Acc: 0.4095
+
+
+Protonet: Epoch 11 Train -- Loss: 6.4796 Acc: 0.2295
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.5278 Acc: 0.1973
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.3670 Acc: 0.2298
+Protonet_ECA: Epoch 11 Train -- Loss: 6.4128 Acc: 0.2288
+Protonet :Prev Val Results -- Loss: 6.6249 Acc: 0.4028
+0.1505442123413081
+Protonet :Val Results -- Loss: 6.7755 Acc: 0.3972
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5499 Acc: 0.3992
+0.08280558872222876
+Protonet_SE-Net :Val Results -- Loss: 6.6328 Acc: 0.4056
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5612 Acc: 0.4056
+0.08960651111602758
+Protonet_CBAM :Val Results -- Loss: 6.6508 Acc: 0.4092
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6206 Acc: 0.4095
+0.06493791770935076
+Protonet_ECA :Val Results -- Loss: 6.6856 Acc: 0.4091
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4707 Acc: 0.2278
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.5589 Acc: 0.1963
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.4025 Acc: 0.2236
+Protonet_ECA: Epoch 12 Train -- Loss: 6.4256 Acc: 0.2258
+Protonet :Prev Val Results -- Loss: 6.7755 Acc: 0.3972
+0.043362393379211106
+Protonet :Val Results -- Loss: 6.8188 Acc: 0.4019
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6328 Acc: 0.4056
+0.01789861869812004
+Protonet_SE-Net :Val Results -- Loss: 6.6149 Acc: 0.4029
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6508 Acc: 0.4092
+0.021343440055846763
+Protonet_CBAM :Val Results -- Loss: 6.6295 Acc: 0.4055
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6856 Acc: 0.4091
+0.014260266304016334
+Protonet_ECA :Val Results -- Loss: 6.6998 Acc: 0.4025
+
+
+Protonet: Epoch 13 Train -- Loss: 6.3928 Acc: 0.2312
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.4921 Acc: 0.2003
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.3385 Acc: 0.2361
+Protonet_ECA: Epoch 13 Train -- Loss: 6.3477 Acc: 0.2332
+Protonet :Prev Val Results -- Loss: 6.8188 Acc: 0.4019
+0.15420874595642076
+Protonet :Val Results -- Loss: 6.6646 Acc: 0.3971
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6149 Acc: 0.4029
+0.03213331985473644
+Protonet_SE-Net :Val Results -- Loss: 6.5827 Acc: 0.4023
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6295 Acc: 0.4055
+0.0399597702026373
+Protonet_CBAM :Val Results -- Loss: 6.5895 Acc: 0.4061
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6998 Acc: 0.4025
+0.07929545021057116
+Protonet_ECA :Val Results -- Loss: 6.6205 Acc: 0.4004
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4307 Acc: 0.2292
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.5408 Acc: 0.2023
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.3866 Acc: 0.2289
+Protonet_ECA: Epoch 14 Train -- Loss: 6.4020 Acc: 0.2300
+Protonet :Prev Val Results -- Loss: 6.6646 Acc: 0.3971
+0.002025252342224171
+Protonet :Val Results -- Loss: 6.6626 Acc: 0.3984
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5827 Acc: 0.4023
+0.002775143623352072
+Protonet_SE-Net :Val Results -- Loss: 6.5799 Acc: 0.3936
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5895 Acc: 0.4061
+0.002445570945740272
+Protonet_CBAM :Val Results -- Loss: 6.5920 Acc: 0.4045
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6205 Acc: 0.4004
+0.0006809110641485816
+Protonet_ECA :Val Results -- Loss: 6.6198 Acc: 0.4043
+
+
+Model:  4
+Protonet: Epoch 1 Train -- Loss: 148.2559 Acc: 0.1555
+Protonet_SE-Net: Epoch 1 Train -- Loss: 39.8988 Acc: 0.1529
+Protonet_CBAM: Epoch 1 Train -- Loss: 16.1122 Acc: 0.1626
+Protonet_ECA: Epoch 1 Train -- Loss: 48.1999 Acc: 0.1553
+Protonet: Epoch 2 Train -- Loss: 12.8038 Acc: 0.1724
+Protonet_SE-Net: Epoch 2 Train -- Loss: 8.3937 Acc: 0.1709
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.9630 Acc: 0.1832
+Protonet_ECA: Epoch 2 Train -- Loss: 10.2217 Acc: 0.1777
+Protonet :Prev Val Results -- Loss: 17.3289 Acc: 0.3728
+5.64492537689209
+Protonet :Val Results -- Loss: 11.6840 Acc: 0.3687
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 9.2660 Acc: 0.3599
+1.5134148426055898
+Protonet_SE-Net :Val Results -- Loss: 7.7526 Acc: 0.3687
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.7586 Acc: 0.3791
+0.6310256252288822
+Protonet_CBAM :Val Results -- Loss: 7.1276 Acc: 0.3768
+
+
+Protonet_ECA :Prev Val Results -- Loss: 13.7431 Acc: 0.3609
+4.58181659412384
+Protonet_ECA :Val Results -- Loss: 9.1613 Acc: 0.3712
+
+
+Protonet: Epoch 3 Train -- Loss: 10.4198 Acc: 0.1979
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.9319 Acc: 0.1852
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6024 Acc: 0.2077
+Protonet_ECA: Epoch 3 Train -- Loss: 8.6535 Acc: 0.2015
+Protonet :Prev Val Results -- Loss: 11.6840 Acc: 0.3687
+2.1982678661346426
+Protonet :Val Results -- Loss: 9.4857 Acc: 0.3795
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 7.7526 Acc: 0.3687
+0.7882990388870246
+Protonet_SE-Net :Val Results -- Loss: 6.9643 Acc: 0.3797
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.1276 Acc: 0.3768
+0.4504898815155034
+Protonet_CBAM :Val Results -- Loss: 6.6771 Acc: 0.3805
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.1613 Acc: 0.3712
+1.4343829565048223
+Protonet_ECA :Val Results -- Loss: 7.7269 Acc: 0.3837
+
+
+Protonet: Epoch 4 Train -- Loss: 9.0908 Acc: 0.2038
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6886 Acc: 0.1912
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5349 Acc: 0.2083
+Protonet_ECA: Epoch 4 Train -- Loss: 7.8362 Acc: 0.2053
+Protonet :Prev Val Results -- Loss: 9.4857 Acc: 0.3795
+0.7635238142013563
+Protonet :Val Results -- Loss: 8.7222 Acc: 0.3941
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.9643 Acc: 0.3797
+0.17232166004180893
+Protonet_SE-Net :Val Results -- Loss: 6.7920 Acc: 0.3792
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6771 Acc: 0.3805
+0.018631478309631966
+Protonet_CBAM :Val Results -- Loss: 6.6958 Acc: 0.3961
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.7269 Acc: 0.3837
+0.1018523902893067
+Protonet_ECA :Val Results -- Loss: 7.6251 Acc: 0.3905
+
+
+Protonet: Epoch 5 Train -- Loss: 8.2709 Acc: 0.2057
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6664 Acc: 0.1957
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.5179 Acc: 0.2159
+Protonet_ECA: Epoch 5 Train -- Loss: 7.3504 Acc: 0.2179
+Protonet :Prev Val Results -- Loss: 8.7222 Acc: 0.3941
+0.6862208805084222
+Protonet :Val Results -- Loss: 8.0360 Acc: 0.3973
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7920 Acc: 0.3792
+0.020372247695922496
+Protonet_SE-Net :Val Results -- Loss: 6.7716 Acc: 0.3853
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6958 Acc: 0.3961
+0.013191164016723711
+Protonet_CBAM :Val Results -- Loss: 6.6826 Acc: 0.3916
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.6251 Acc: 0.3905
+0.021980009078979457
+Protonet_ECA :Val Results -- Loss: 7.6470 Acc: 0.3871
+
+
+Protonet: Epoch 6 Train -- Loss: 7.5475 Acc: 0.2161
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6039 Acc: 0.1939
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4520 Acc: 0.2189
+Protonet_ECA: Epoch 6 Train -- Loss: 6.9549 Acc: 0.2218
+Protonet :Prev Val Results -- Loss: 8.0360 Acc: 0.3973
+0.5313225812911986
+Protonet :Val Results -- Loss: 7.5047 Acc: 0.3849
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7716 Acc: 0.3853
+0.03767559432983436
+Protonet_SE-Net :Val Results -- Loss: 6.7339 Acc: 0.3872
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6826 Acc: 0.3916
+0.018868210792541973
+Protonet_CBAM :Val Results -- Loss: 6.6637 Acc: 0.3959
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.6470 Acc: 0.3871
+0.5792917242050164
+Protonet_ECA :Val Results -- Loss: 7.0677 Acc: 0.3993
+
+
+Protonet: Epoch 7 Train -- Loss: 7.1802 Acc: 0.2193
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5561 Acc: 0.1998
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4080 Acc: 0.2276
+Protonet_ECA: Epoch 7 Train -- Loss: 6.7319 Acc: 0.2284
+Protonet :Prev Val Results -- Loss: 7.5047 Acc: 0.3849
+0.010019657135009297
+Protonet :Val Results -- Loss: 7.5147 Acc: 0.3988
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7339 Acc: 0.3872
+0.09707476806640614
+Protonet_SE-Net :Val Results -- Loss: 6.6368 Acc: 0.3943
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6637 Acc: 0.3959
+0.03469979381561217
+Protonet_CBAM :Val Results -- Loss: 6.6290 Acc: 0.4021
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0677 Acc: 0.3993
+0.18197469234466546
+Protonet_ECA :Val Results -- Loss: 6.8858 Acc: 0.4016
+
+
+Protonet: Epoch 8 Train -- Loss: 6.8619 Acc: 0.2167
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5694 Acc: 0.1979
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4358 Acc: 0.2224
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5873 Acc: 0.2243
+Protonet :Prev Val Results -- Loss: 7.5147 Acc: 0.3988
+0.8198756933212277
+Protonet :Val Results -- Loss: 6.6948 Acc: 0.4028
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6368 Acc: 0.3943
+0.08726728343963597
+Protonet_SE-Net :Val Results -- Loss: 6.5496 Acc: 0.4023
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6290 Acc: 0.4021
+0.04623692989349415
+Protonet_CBAM :Val Results -- Loss: 6.5828 Acc: 0.4057
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8858 Acc: 0.4016
+0.14054546356201225
+Protonet_ECA :Val Results -- Loss: 6.7452 Acc: 0.4049
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6555 Acc: 0.2225
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.4927 Acc: 0.2043
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.3790 Acc: 0.2244
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4675 Acc: 0.2317
+Protonet :Prev Val Results -- Loss: 6.6948 Acc: 0.4028
+0.058769728660583276
+Protonet :Val Results -- Loss: 6.7536 Acc: 0.3888
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5496 Acc: 0.4023
+0.11335006237029965
+Protonet_SE-Net :Val Results -- Loss: 6.6629 Acc: 0.4035
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5828 Acc: 0.4057
+0.117568337440491
+Protonet_CBAM :Val Results -- Loss: 6.7003 Acc: 0.4017
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7452 Acc: 0.4049
+0.0017933950424193768
+Protonet_ECA :Val Results -- Loss: 6.7470 Acc: 0.3992
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5996 Acc: 0.2269
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.5399 Acc: 0.2007
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.4021 Acc: 0.2279
+Protonet :Prev Val Results -- Loss: 6.7536 Acc: 0.3888
+0.056107598304747874
+Protonet :Val Results -- Loss: 6.6975 Acc: 0.3873
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6629 Acc: 0.4035
+0.0612628688812249
+Protonet_SE-Net :Val Results -- Loss: 6.6017 Acc: 0.3936
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7003 Acc: 0.4017
+0.07996681404113737
+Protonet_CBAM :Val Results -- Loss: 6.6204 Acc: 0.3908
+
+
+Protonet: Epoch 11 Train -- Loss: 6.5074 Acc: 0.2245
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.4982 Acc: 0.2061
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.3764 Acc: 0.2305
+Protonet :Prev Val Results -- Loss: 6.6975 Acc: 0.3873
+0.01726436138153087
+Protonet :Val Results -- Loss: 6.6802 Acc: 0.3869
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6017 Acc: 0.3936
+0.022910319328308226
+Protonet_SE-Net :Val Results -- Loss: 6.5787 Acc: 0.3789
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6204 Acc: 0.3908
+0.0092298145294194
+Protonet_CBAM :Val Results -- Loss: 6.6111 Acc: 0.3836
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4584 Acc: 0.2204
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.4983 Acc: 0.2065
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.3813 Acc: 0.2268
+Protonet :Prev Val Results -- Loss: 6.6802 Acc: 0.3869
+0.12658526992797814
+Protonet :Val Results -- Loss: 6.8068 Acc: 0.4069
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5787 Acc: 0.3789
+0.1204232339859006
+Protonet_SE-Net :Val Results -- Loss: 6.6992 Acc: 0.3949
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6111 Acc: 0.3836
+0.10906124401092576
+Protonet_CBAM :Val Results -- Loss: 6.7202 Acc: 0.3949
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4633 Acc: 0.2286
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.5267 Acc: 0.1986
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.3963 Acc: 0.2248
+Protonet :Prev Val Results -- Loss: 6.8068 Acc: 0.4069
+0.10858861255645724
+Protonet :Val Results -- Loss: 6.6982 Acc: 0.3907
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6992 Acc: 0.3949
+0.11242152595519972
+Protonet_SE-Net :Val Results -- Loss: 6.5867 Acc: 0.3957
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7202 Acc: 0.3949
+0.10593642234802303
+Protonet_CBAM :Val Results -- Loss: 6.6143 Acc: 0.3940
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4112 Acc: 0.2241
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.4845 Acc: 0.2037
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.3562 Acc: 0.2294
+Protonet :Prev Val Results -- Loss: 6.6982 Acc: 0.3907
+0.0018934917449948685
+Protonet :Val Results -- Loss: 6.7001 Acc: 0.3880
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5867 Acc: 0.3957
+0.019146025657653
+Protonet_SE-Net :Val Results -- Loss: 6.6059 Acc: 0.3931
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6143 Acc: 0.3940
+0.017878317832947133
+Protonet_CBAM :Val Results -- Loss: 6.6321 Acc: 0.3920
+
+
+Protonet_SE-Net: Epoch 15 Train -- Loss: 6.5424 Acc: 0.2047
+Protonet_CBAM: Epoch 15 Train -- Loss: 6.4198 Acc: 0.2281
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6059 Acc: 0.3931
+0.052882459640503754
+Protonet_SE-Net :Val Results -- Loss: 6.6588 Acc: 0.3976
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6321 Acc: 0.3920
+0.05866758060455268
+Protonet_CBAM :Val Results -- Loss: 6.6908 Acc: 0.3963
+
+
+Protonet_SE-Net: Epoch 16 Train -- Loss: 6.5196 Acc: 0.2030
+Protonet_CBAM: Epoch 16 Train -- Loss: 6.4055 Acc: 0.2259
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6588 Acc: 0.3976
+0.08593124198913582
+Protonet_SE-Net :Val Results -- Loss: 6.5728 Acc: 0.3997
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6908 Acc: 0.3963
+0.09004700279235767
+Protonet_CBAM :Val Results -- Loss: 6.6008 Acc: 0.4056
+
+
+Protonet_SE-Net: Epoch 17 Train -- Loss: 6.5179 Acc: 0.2072
+Protonet_CBAM: Epoch 17 Train -- Loss: 6.3860 Acc: 0.2325
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5728 Acc: 0.3997
+0.06464745616912815
+Protonet_SE-Net :Val Results -- Loss: 6.6375 Acc: 0.3923
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6008 Acc: 0.4056
+0.06510539722442577
+Protonet_CBAM :Val Results -- Loss: 6.6659 Acc: 0.3928
+
+
+Protonet_SE-Net: Epoch 18 Train -- Loss: 6.5006 Acc: 0.2040
+Protonet_CBAM: Epoch 18 Train -- Loss: 6.3790 Acc: 0.2277
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6375 Acc: 0.3923
+0.029740498542785154
+Protonet_SE-Net :Val Results -- Loss: 6.6672 Acc: 0.4000
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6659 Acc: 0.3928
+0.020682376861572038
+Protonet_CBAM :Val Results -- Loss: 6.6865 Acc: 0.4084
+
+
+Protonet_SE-Net: Epoch 19 Train -- Loss: 6.5046 Acc: 0.2116
+Protonet_CBAM: Epoch 19 Train -- Loss: 6.3884 Acc: 0.2281
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6672 Acc: 0.4000
+0.0783693828582761
+Protonet_SE-Net :Val Results -- Loss: 6.5889 Acc: 0.3923
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6865 Acc: 0.4084
+0.06780997467040972
+Protonet_CBAM :Val Results -- Loss: 6.6187 Acc: 0.3879
+
+
+Protonet_SE-Net: Epoch 20 Train -- Loss: 6.5185 Acc: 0.2023
+Protonet_CBAM: Epoch 20 Train -- Loss: 6.3919 Acc: 0.2280
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5889 Acc: 0.3923
+0.002321191787720167
+Protonet_SE-Net :Val Results -- Loss: 6.5912 Acc: 0.3872
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6187 Acc: 0.3879
+0.001535545349121037
+Protonet_CBAM :Val Results -- Loss: 6.6203 Acc: 0.3901
+
+
+Model:  5
+Protonet: Epoch 1 Train -- Loss: 97.7259 Acc: 0.1477
+Protonet_SE-Net: Epoch 1 Train -- Loss: 32.9002 Acc: 0.1663
+Protonet_CBAM: Epoch 1 Train -- Loss: 12.7882 Acc: 0.1687
+Protonet_ECA: Epoch 1 Train -- Loss: 37.0099 Acc: 0.1550
+Protonet: Epoch 2 Train -- Loss: 11.5040 Acc: 0.1662
+Protonet_SE-Net: Epoch 2 Train -- Loss: 6.9139 Acc: 0.1740
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.7973 Acc: 0.1882
+Protonet_ECA: Epoch 2 Train -- Loss: 9.8735 Acc: 0.1755
+Protonet :Prev Val Results -- Loss: 13.3881 Acc: 0.3591
+2.42841089439392
+Protonet :Val Results -- Loss: 10.9596 Acc: 0.3709
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.9018 Acc: 0.3821
+0.1199670524597165
+Protonet_SE-Net :Val Results -- Loss: 6.7818 Acc: 0.3839
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.8870 Acc: 0.3987
+0.008447531700134014
+Protonet_CBAM :Val Results -- Loss: 6.8955 Acc: 0.3903
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.9520 Acc: 0.3732
+1.3031753759384141
+Protonet_ECA :Val Results -- Loss: 8.6489 Acc: 0.3936
+
+
+Protonet: Epoch 3 Train -- Loss: 10.1798 Acc: 0.1833
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.7604 Acc: 0.1832
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6968 Acc: 0.2033
+Protonet_ECA: Epoch 3 Train -- Loss: 8.5580 Acc: 0.2027
+Protonet :Prev Val Results -- Loss: 10.9596 Acc: 0.3709
+0.2356651000976573
+Protonet :Val Results -- Loss: 10.7240 Acc: 0.3811
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7818 Acc: 0.3839
+0.09188248634338425
+Protonet_SE-Net :Val Results -- Loss: 6.6900 Acc: 0.3836
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.8955 Acc: 0.3903
+0.18978377151489223
+Protonet_CBAM :Val Results -- Loss: 6.7057 Acc: 0.3907
+
+
+Protonet_ECA :Prev Val Results -- Loss: 8.6489 Acc: 0.3936
+0.5183595418930054
+Protonet_ECA :Val Results -- Loss: 9.1672 Acc: 0.3869
+
+
+Protonet: Epoch 4 Train -- Loss: 8.8097 Acc: 0.1974
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6297 Acc: 0.1848
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5235 Acc: 0.2078
+Protonet_ECA: Epoch 4 Train -- Loss: 7.6354 Acc: 0.2089
+Protonet :Prev Val Results -- Loss: 10.7240 Acc: 0.3811
+2.0397068462371823
+Protonet :Val Results -- Loss: 8.6843 Acc: 0.3799
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6900 Acc: 0.3836
+0.09274952220916699
+Protonet_SE-Net :Val Results -- Loss: 6.5972 Acc: 0.3803
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7057 Acc: 0.3907
+0.1207104330062867
+Protonet_CBAM :Val Results -- Loss: 6.5850 Acc: 0.3919
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.1672 Acc: 0.3869
+1.518966423988343
+Protonet_ECA :Val Results -- Loss: 7.6483 Acc: 0.3952
+
+
+Protonet: Epoch 5 Train -- Loss: 8.1163 Acc: 0.2053
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6271 Acc: 0.1950
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.5098 Acc: 0.2164
+Protonet_ECA: Epoch 5 Train -- Loss: 7.1739 Acc: 0.2193
+Protonet :Prev Val Results -- Loss: 8.6843 Acc: 0.3799
+0.6377235946655269
+Protonet :Val Results -- Loss: 8.0465 Acc: 0.3797
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5972 Acc: 0.3803
+0.08938310813903794
+Protonet_SE-Net :Val Results -- Loss: 6.6866 Acc: 0.3853
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5850 Acc: 0.3919
+0.10939650154113778
+Protonet_CBAM :Val Results -- Loss: 6.6944 Acc: 0.3895
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.6483 Acc: 0.3952
+0.3253476886749267
+Protonet_ECA :Val Results -- Loss: 7.9736 Acc: 0.4036
+
+
+Protonet: Epoch 6 Train -- Loss: 7.5821 Acc: 0.2147
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6093 Acc: 0.1909
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4662 Acc: 0.2230
+Protonet_ECA: Epoch 6 Train -- Loss: 6.8972 Acc: 0.2243
+Protonet :Prev Val Results -- Loss: 8.0465 Acc: 0.3797
+0.5673330621719366
+Protonet :Val Results -- Loss: 7.4792 Acc: 0.3995
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6866 Acc: 0.3853
+0.04564611053466816
+Protonet_SE-Net :Val Results -- Loss: 6.6409 Acc: 0.3937
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6944 Acc: 0.3895
+0.04161189842224111
+Protonet_CBAM :Val Results -- Loss: 6.6527 Acc: 0.4033
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.9736 Acc: 0.4036
+0.9098290767669681
+Protonet_ECA :Val Results -- Loss: 7.0638 Acc: 0.3996
+
+
+Protonet: Epoch 7 Train -- Loss: 7.1315 Acc: 0.2137
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5939 Acc: 0.1875
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4403 Acc: 0.2170
+Protonet_ECA: Epoch 7 Train -- Loss: 6.6627 Acc: 0.2225
+Protonet :Prev Val Results -- Loss: 7.4792 Acc: 0.3995
+0.31082211494445744
+Protonet :Val Results -- Loss: 7.1684 Acc: 0.4007
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6409 Acc: 0.3937
+0.03242439556121823
+Protonet_SE-Net :Val Results -- Loss: 6.6085 Acc: 0.3987
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6527 Acc: 0.4033
+0.040228875160217115
+Protonet_CBAM :Val Results -- Loss: 6.6125 Acc: 0.4137
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0638 Acc: 0.3996
+0.23750561904907208
+Protonet_ECA :Val Results -- Loss: 6.8263 Acc: 0.4079
+
+
+Protonet: Epoch 8 Train -- Loss: 6.8858 Acc: 0.2246
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5832 Acc: 0.1987
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4328 Acc: 0.2193
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5515 Acc: 0.2308
+Protonet :Prev Val Results -- Loss: 7.1684 Acc: 0.4007
+0.24978488731384285
+Protonet :Val Results -- Loss: 6.9186 Acc: 0.4025
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6085 Acc: 0.3987
+0.0027733297348024877
+Protonet_SE-Net :Val Results -- Loss: 6.6057 Acc: 0.3973
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6125 Acc: 0.4137
+0.012994000434875197
+Protonet_CBAM :Val Results -- Loss: 6.6255 Acc: 0.3972
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8263 Acc: 0.4079
+0.13431100273132301
+Protonet_ECA :Val Results -- Loss: 6.6920 Acc: 0.4032
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6641 Acc: 0.2225
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.4316 Acc: 0.2203
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4773 Acc: 0.2270
+Protonet :Prev Val Results -- Loss: 6.9186 Acc: 0.4025
+0.05749243736267129
+Protonet :Val Results -- Loss: 6.8611 Acc: 0.3843
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6255 Acc: 0.3972
+0.015676650047302232
+Protonet_CBAM :Val Results -- Loss: 6.6098 Acc: 0.3980
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6920 Acc: 0.4032
+0.06777063465118438
+Protonet_ECA :Val Results -- Loss: 6.6242 Acc: 0.4020
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5390 Acc: 0.2261
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.4010 Acc: 0.2238
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4178 Acc: 0.2311
+Protonet :Prev Val Results -- Loss: 6.8611 Acc: 0.3843
+0.02086082458496019
+Protonet :Val Results -- Loss: 6.8403 Acc: 0.3935
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6098 Acc: 0.3980
+0.035799303054809606
+Protonet_CBAM :Val Results -- Loss: 6.6456 Acc: 0.3960
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6242 Acc: 0.4020
+0.07018007469177245
+Protonet_ECA :Val Results -- Loss: 6.6944 Acc: 0.4011
+
+
+Protonet: Epoch 11 Train -- Loss: 6.5182 Acc: 0.2229
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.4641 Acc: 0.2251
+Protonet_ECA: Epoch 11 Train -- Loss: 6.4404 Acc: 0.2313
+Protonet :Prev Val Results -- Loss: 6.8403 Acc: 0.3935
+0.07433557415008618
+Protonet :Val Results -- Loss: 6.7659 Acc: 0.3883
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6456 Acc: 0.3960
+0.06086630058288556
+Protonet_CBAM :Val Results -- Loss: 6.5848 Acc: 0.4015
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6944 Acc: 0.4011
+0.015860798835753975
+Protonet_ECA :Val Results -- Loss: 6.6785 Acc: 0.3932
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4573 Acc: 0.2277
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.4011 Acc: 0.2216
+Protonet_ECA: Epoch 12 Train -- Loss: 6.3877 Acc: 0.2326
+Protonet :Prev Val Results -- Loss: 6.7659 Acc: 0.3883
+0.1275339584350581
+Protonet :Val Results -- Loss: 6.6384 Acc: 0.4024
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5848 Acc: 0.4015
+0.0035064945220950605
+Protonet_CBAM :Val Results -- Loss: 6.5813 Acc: 0.4031
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6785 Acc: 0.3932
+0.09458596801757846
+Protonet_ECA :Val Results -- Loss: 6.5839 Acc: 0.4047
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4768 Acc: 0.2228
+Protonet_ECA: Epoch 13 Train -- Loss: 6.4178 Acc: 0.2296
+Protonet :Prev Val Results -- Loss: 6.6384 Acc: 0.4024
+0.003105531692504826
+Protonet :Val Results -- Loss: 6.6415 Acc: 0.3944
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5839 Acc: 0.4047
+0.010620614051818578
+Protonet_ECA :Val Results -- Loss: 6.5946 Acc: 0.3932
+
+
+Protonet_ECA: Epoch 14 Train -- Loss: 6.3811 Acc: 0.2333
+Protonet_ECA :Prev Val Results -- Loss: 6.5946 Acc: 0.3932
+0.007259955406189178
+Protonet_ECA :Val Results -- Loss: 6.6018 Acc: 0.4125
+
+
+Protonet_ECA: Epoch 15 Train -- Loss: 6.4052 Acc: 0.2294
+Protonet_ECA :Prev Val Results -- Loss: 6.6018 Acc: 0.4125
+0.022731280326843795
+Protonet_ECA :Val Results -- Loss: 6.6245 Acc: 0.3943
+
+
+Protonet_ECA: Epoch 16 Train -- Loss: 6.3832 Acc: 0.2343
+Protonet_ECA :Prev Val Results -- Loss: 6.6245 Acc: 0.3943
+0.0014593152999884396
+Protonet_ECA :Val Results -- Loss: 6.6231 Acc: 0.3984
+
+
+Model:  6
+Protonet: Epoch 1 Train -- Loss: 123.8686 Acc: 0.1496
+Protonet_SE-Net: Epoch 1 Train -- Loss: 39.9881 Acc: 0.1553
+Protonet_CBAM: Epoch 1 Train -- Loss: 12.2494 Acc: 0.1665
+Protonet_ECA: Epoch 1 Train -- Loss: 41.9438 Acc: 0.1555
+Protonet: Epoch 2 Train -- Loss: 11.1387 Acc: 0.1667
+Protonet_SE-Net: Epoch 2 Train -- Loss: 7.7745 Acc: 0.1771
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.8312 Acc: 0.1944
+Protonet_ECA: Epoch 2 Train -- Loss: 9.5788 Acc: 0.1786
+Protonet :Prev Val Results -- Loss: 14.3055 Acc: 0.3556
+4.903822059631349
+Protonet :Val Results -- Loss: 9.4017 Acc: 0.3669
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 10.0172 Acc: 0.3631
+2.610056949615478
+Protonet_SE-Net :Val Results -- Loss: 7.4071 Acc: 0.3893
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.9076 Acc: 0.3929
+0.025898891448974837
+Protonet_CBAM :Val Results -- Loss: 6.9335 Acc: 0.3919
+
+
+Protonet_ECA :Prev Val Results -- Loss: 11.0705 Acc: 0.3733
+0.8191857776641847
+Protonet_ECA :Val Results -- Loss: 10.2513 Acc: 0.3824
+
+
+Protonet: Epoch 3 Train -- Loss: 9.5597 Acc: 0.1878
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.8103 Acc: 0.1841
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6525 Acc: 0.2019
+Protonet_ECA: Epoch 3 Train -- Loss: 8.4152 Acc: 0.2019
+Protonet :Prev Val Results -- Loss: 9.4017 Acc: 0.3669
+0.6925838165283196
+Protonet :Val Results -- Loss: 10.0943 Acc: 0.3700
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 7.4071 Acc: 0.3893
+0.6017412509918207
+Protonet_SE-Net :Val Results -- Loss: 6.8054 Acc: 0.3908
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.9335 Acc: 0.3919
+0.24242905712127705
+Protonet_CBAM :Val Results -- Loss: 6.6911 Acc: 0.4027
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.2513 Acc: 0.3824
+2.904086556434631
+Protonet_ECA :Val Results -- Loss: 7.3472 Acc: 0.3913
+
+
+Protonet: Epoch 4 Train -- Loss: 8.7994 Acc: 0.1988
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6920 Acc: 0.1858
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5628 Acc: 0.2045
+Protonet_ECA: Epoch 4 Train -- Loss: 7.5236 Acc: 0.2039
+Protonet :Prev Val Results -- Loss: 10.0943 Acc: 0.3700
+0.8175903682708725
+Protonet :Val Results -- Loss: 9.2767 Acc: 0.3835
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.8054 Acc: 0.3908
+0.00917331218719486
+Protonet_SE-Net :Val Results -- Loss: 6.8145 Acc: 0.3857
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6911 Acc: 0.4027
+0.08031566524505607
+Protonet_CBAM :Val Results -- Loss: 6.7714 Acc: 0.3945
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.3472 Acc: 0.3913
+0.15878875923156688
+Protonet_ECA :Val Results -- Loss: 7.5060 Acc: 0.3843
+
+
+Protonet: Epoch 5 Train -- Loss: 7.9136 Acc: 0.2052
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.5939 Acc: 0.1948
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.4751 Acc: 0.2194
+Protonet_ECA: Epoch 5 Train -- Loss: 7.0897 Acc: 0.2185
+Protonet :Prev Val Results -- Loss: 9.2767 Acc: 0.3835
+1.553992302894593
+Protonet :Val Results -- Loss: 7.7227 Acc: 0.3845
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.8145 Acc: 0.3857
+0.1462077217102058
+Protonet_SE-Net :Val Results -- Loss: 6.6683 Acc: 0.3937
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7714 Acc: 0.3945
+0.11071313571929853
+Protonet_CBAM :Val Results -- Loss: 6.6607 Acc: 0.3935
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.5060 Acc: 0.3843
+0.016942971229553017
+Protonet_ECA :Val Results -- Loss: 7.4891 Acc: 0.3863
+
+
+Protonet: Epoch 6 Train -- Loss: 7.4890 Acc: 0.2097
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6043 Acc: 0.1986
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4706 Acc: 0.2119
+Protonet_ECA: Epoch 6 Train -- Loss: 6.8305 Acc: 0.2167
+Protonet :Prev Val Results -- Loss: 7.7227 Acc: 0.3845
+0.08782269191741943
+Protonet :Val Results -- Loss: 7.8105 Acc: 0.3777
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6683 Acc: 0.3937
+0.038126305580139075
+Protonet_SE-Net :Val Results -- Loss: 6.6302 Acc: 0.3828
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6607 Acc: 0.3935
+0.002536894798278233
+Protonet_CBAM :Val Results -- Loss: 6.6632 Acc: 0.3847
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.4891 Acc: 0.3863
+0.6272960987091061
+Protonet_ECA :Val Results -- Loss: 6.8618 Acc: 0.3856
+
+
+Protonet: Epoch 7 Train -- Loss: 7.1250 Acc: 0.2159
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5819 Acc: 0.2001
+Protonet_ECA: Epoch 7 Train -- Loss: 6.6960 Acc: 0.2259
+Protonet :Prev Val Results -- Loss: 7.8105 Acc: 0.3777
+0.6900728902816775
+Protonet :Val Results -- Loss: 7.1205 Acc: 0.3899
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6302 Acc: 0.3828
+0.004256318092346056
+Protonet_SE-Net :Val Results -- Loss: 6.6260 Acc: 0.3940
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8618 Acc: 0.3856
+0.035406409263610605
+Protonet_ECA :Val Results -- Loss: 6.8972 Acc: 0.3997
+
+
+Protonet: Epoch 8 Train -- Loss: 6.7746 Acc: 0.2207
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5202 Acc: 0.2321
+Protonet :Prev Val Results -- Loss: 7.1205 Acc: 0.3899
+0.0844578104019158
+Protonet :Val Results -- Loss: 7.0360 Acc: 0.3915
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8972 Acc: 0.3997
+0.17345973491668687
+Protonet_ECA :Val Results -- Loss: 6.7237 Acc: 0.4076
+
+
+Protonet: Epoch 9 Train -- Loss: 6.7139 Acc: 0.2257
+Protonet_ECA: Epoch 9 Train -- Loss: 6.5305 Acc: 0.2280
+Protonet :Prev Val Results -- Loss: 7.0360 Acc: 0.3915
+0.20721504497528098
+Protonet :Val Results -- Loss: 6.8288 Acc: 0.3851
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7237 Acc: 0.4076
+0.04855472469329847
+Protonet_ECA :Val Results -- Loss: 6.7723 Acc: 0.3967
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5637 Acc: 0.2238
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4470 Acc: 0.2291
+Protonet :Prev Val Results -- Loss: 6.8288 Acc: 0.3851
+0.03301006507873527
+Protonet :Val Results -- Loss: 6.7958 Acc: 0.3864
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7723 Acc: 0.3967
+0.10226351165771508
+Protonet_ECA :Val Results -- Loss: 6.6700 Acc: 0.3881
+
+
+Protonet: Epoch 11 Train -- Loss: 6.4891 Acc: 0.2237
+Protonet_ECA: Epoch 11 Train -- Loss: 6.4053 Acc: 0.2311
+Protonet :Prev Val Results -- Loss: 6.7958 Acc: 0.3864
+0.04682787799835264
+Protonet :Val Results -- Loss: 6.7489 Acc: 0.3908
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6700 Acc: 0.3881
+0.02190269279480006
+Protonet_ECA :Val Results -- Loss: 6.6919 Acc: 0.4015
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4413 Acc: 0.2243
+Protonet_ECA: Epoch 12 Train -- Loss: 6.3805 Acc: 0.2367
+Protonet :Prev Val Results -- Loss: 6.7489 Acc: 0.3908
+0.05658095741271918
+Protonet :Val Results -- Loss: 6.6924 Acc: 0.3927
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6919 Acc: 0.4015
+0.05951720428466789
+Protonet_ECA :Val Results -- Loss: 6.6324 Acc: 0.3969
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4850 Acc: 0.2234
+Protonet_ECA: Epoch 13 Train -- Loss: 6.4349 Acc: 0.2261
+Protonet :Prev Val Results -- Loss: 6.6924 Acc: 0.3927
+0.003405564308166298
+Protonet :Val Results -- Loss: 6.6890 Acc: 0.3907
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6324 Acc: 0.3969
+0.02927481269836374
+Protonet_ECA :Val Results -- Loss: 6.6617 Acc: 0.3955
+
+
+Protonet_ECA: Epoch 14 Train -- Loss: 6.3919 Acc: 0.2292
+Protonet_ECA :Prev Val Results -- Loss: 6.6617 Acc: 0.3955
+0.014925036430359029
+Protonet_ECA :Val Results -- Loss: 6.6467 Acc: 0.4020
+
+
+Protonet_ECA: Epoch 15 Train -- Loss: 6.4039 Acc: 0.2299
+Protonet_ECA :Prev Val Results -- Loss: 6.6467 Acc: 0.4020
+0.057417932510375636
+Protonet_ECA :Val Results -- Loss: 6.5893 Acc: 0.4081
+
+
+Protonet_ECA: Epoch 16 Train -- Loss: 6.4003 Acc: 0.2299
+Protonet_ECA :Prev Val Results -- Loss: 6.5893 Acc: 0.4081
+0.05862507820129359
+Protonet_ECA :Val Results -- Loss: 6.6479 Acc: 0.4024
+
+
+Protonet_ECA: Epoch 17 Train -- Loss: 6.4018 Acc: 0.2294
+Protonet_ECA :Prev Val Results -- Loss: 6.6479 Acc: 0.4024
+0.05467409133911172
+Protonet_ECA :Val Results -- Loss: 6.7026 Acc: 0.3993
+
+
+Protonet_ECA: Epoch 18 Train -- Loss: 6.3429 Acc: 0.2350
+Protonet_ECA :Prev Val Results -- Loss: 6.7026 Acc: 0.3993
+0.10305718994140634
+Protonet_ECA :Val Results -- Loss: 6.5996 Acc: 0.3936
+
+
+Protonet_ECA: Epoch 19 Train -- Loss: 6.3770 Acc: 0.2282
+Protonet_ECA :Prev Val Results -- Loss: 6.5996 Acc: 0.3936
+0.044815027236938754
+Protonet_ECA :Val Results -- Loss: 6.6444 Acc: 0.3973
+
+
+Protonet_ECA: Epoch 20 Train -- Loss: 6.3863 Acc: 0.2280
+Protonet_ECA :Prev Val Results -- Loss: 6.6444 Acc: 0.3973
+0.020159337997435856
+Protonet_ECA :Val Results -- Loss: 6.6645 Acc: 0.3960
+
+
+Protonet_ECA: Epoch 21 Train -- Loss: 6.3784 Acc: 0.2307
+Protonet_ECA :Prev Val Results -- Loss: 6.6645 Acc: 0.3960
+0.017526593208313734
+Protonet_ECA :Val Results -- Loss: 6.6821 Acc: 0.3899
+
+
+Protonet_ECA: Epoch 22 Train -- Loss: 6.3891 Acc: 0.2270
+Protonet_ECA :Prev Val Results -- Loss: 6.6821 Acc: 0.3899
+0.014812057495117159
+Protonet_ECA :Val Results -- Loss: 6.6672 Acc: 0.3963
+
+
+Protonet_ECA: Epoch 23 Train -- Loss: 6.3710 Acc: 0.2261
+Protonet_ECA :Prev Val Results -- Loss: 6.6672 Acc: 0.3963
+0.029718011856079585
+Protonet_ECA :Val Results -- Loss: 6.6375 Acc: 0.3893
+
+
+Protonet_ECA: Epoch 24 Train -- Loss: 6.4093 Acc: 0.2324
+Protonet_ECA :Prev Val Results -- Loss: 6.6375 Acc: 0.3893
+0.050950209617614206
+Protonet_ECA :Val Results -- Loss: 6.5866 Acc: 0.4044
+
+
+Protonet_ECA: Epoch 25 Train -- Loss: 6.3826 Acc: 0.2298
+Protonet_ECA :Prev Val Results -- Loss: 6.5866 Acc: 0.4044
+0.053347670555114135
+Protonet_ECA :Val Results -- Loss: 6.6399 Acc: 0.3957
+
+
+Protonet_ECA: Epoch 26 Train -- Loss: 6.3941 Acc: 0.2315
+Protonet_ECA :Prev Val Results -- Loss: 6.6399 Acc: 0.3957
+0.03205234146118219
+Protonet_ECA :Val Results -- Loss: 6.6720 Acc: 0.3949
+
+
+Protonet_ECA: Epoch 27 Train -- Loss: 6.4060 Acc: 0.2360
+Protonet_ECA :Prev Val Results -- Loss: 6.6720 Acc: 0.3949
+0.00931152439117433
+Protonet_ECA :Val Results -- Loss: 6.6813 Acc: 0.3929
+
+
+Protonet_ECA: Epoch 28 Train -- Loss: 6.3787 Acc: 0.2361
+Protonet_ECA :Prev Val Results -- Loss: 6.6813 Acc: 0.3929
+0.066106464385987
+Protonet_ECA :Val Results -- Loss: 6.6152 Acc: 0.3892
+
+
+Protonet_ECA: Epoch 29 Train -- Loss: 6.3992 Acc: 0.2290
+Protonet_ECA :Prev Val Results -- Loss: 6.6152 Acc: 0.3892
+0.014584877014160114
+Protonet_ECA :Val Results -- Loss: 6.6006 Acc: 0.3987
+
+
+Protonet_ECA: Epoch 30 Train -- Loss: 6.3968 Acc: 0.2289
+Protonet_ECA :Prev Val Results -- Loss: 6.6006 Acc: 0.3987
+0.08927145004272496
+Protonet_ECA :Val Results -- Loss: 6.6899 Acc: 0.3995
+
+
+Protonet_ECA: Epoch 31 Train -- Loss: 6.4044 Acc: 0.2289
+Protonet_ECA :Prev Val Results -- Loss: 6.6899 Acc: 0.3995
+0.10837720012664764
+Protonet_ECA :Val Results -- Loss: 6.5815 Acc: 0.3924
+
+
+Protonet_ECA: Epoch 32 Train -- Loss: 6.3426 Acc: 0.2364
+Protonet_ECA :Prev Val Results -- Loss: 6.5815 Acc: 0.3924
+0.07042148303985574
+Protonet_ECA :Val Results -- Loss: 6.6519 Acc: 0.3945
+
+
+Protonet_ECA: Epoch 33 Train -- Loss: 6.3840 Acc: 0.2295
+Protonet_ECA :Prev Val Results -- Loss: 6.6519 Acc: 0.3945
+0.001659982681274208
+Protonet_ECA :Val Results -- Loss: 6.6503 Acc: 0.4017
+
+
+Model:  7
+Protonet: Epoch 1 Train -- Loss: 76.9355 Acc: 0.1508
+Protonet_SE-Net: Epoch 1 Train -- Loss: 34.9732 Acc: 0.1570
+Protonet_CBAM: Epoch 1 Train -- Loss: 12.6246 Acc: 0.1759
+Protonet_ECA: Epoch 1 Train -- Loss: 35.0135 Acc: 0.1561
+Protonet: Epoch 2 Train -- Loss: 11.5952 Acc: 0.1760
+Protonet_SE-Net: Epoch 2 Train -- Loss: 7.3565 Acc: 0.1688
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.7524 Acc: 0.1926
+Protonet_ECA: Epoch 2 Train -- Loss: 9.3896 Acc: 0.1828
+Protonet :Prev Val Results -- Loss: 16.1377 Acc: 0.3563
+6.637779794692992
+Protonet :Val Results -- Loss: 9.4999 Acc: 0.3733
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 9.6328 Acc: 0.3648
+2.721726084709166
+Protonet_SE-Net :Val Results -- Loss: 6.9110 Acc: 0.3857
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.0170 Acc: 0.3815
+0.1819530000686651
+Protonet_CBAM :Val Results -- Loss: 6.8350 Acc: 0.3975
+
+
+Protonet_ECA :Prev Val Results -- Loss: 9.7307 Acc: 0.3763
+1.7563391323089608
+Protonet_ECA :Val Results -- Loss: 11.4870 Acc: 0.3909
+
+
+Protonet: Epoch 3 Train -- Loss: 9.8269 Acc: 0.1867
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.7961 Acc: 0.1818
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6334 Acc: 0.2047
+Protonet_ECA: Epoch 3 Train -- Loss: 8.0449 Acc: 0.1982
+Protonet :Prev Val Results -- Loss: 9.4999 Acc: 0.3733
+1.14322553062439
+Protonet :Val Results -- Loss: 8.3566 Acc: 0.3872
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.9110 Acc: 0.3857
+0.2847981052398687
+Protonet_SE-Net :Val Results -- Loss: 6.6262 Acc: 0.3997
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.8350 Acc: 0.3975
+0.23331154251098596
+Protonet_CBAM :Val Results -- Loss: 6.6017 Acc: 0.4063
+
+
+Protonet_ECA :Prev Val Results -- Loss: 11.4870 Acc: 0.3909
+2.8375058765411385
+Protonet_ECA :Val Results -- Loss: 8.6495 Acc: 0.3944
+
+
+Protonet: Epoch 4 Train -- Loss: 8.7072 Acc: 0.1990
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.6625 Acc: 0.1875
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5113 Acc: 0.2134
+Protonet_ECA: Epoch 4 Train -- Loss: 7.4194 Acc: 0.2020
+Protonet :Prev Val Results -- Loss: 8.3566 Acc: 0.3872
+0.4083493337631232
+Protonet :Val Results -- Loss: 8.7650 Acc: 0.3843
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6262 Acc: 0.3997
+0.04727130031585691
+Protonet_SE-Net :Val Results -- Loss: 6.5790 Acc: 0.3976
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6017 Acc: 0.4063
+0.004340387344360153
+Protonet_CBAM :Val Results -- Loss: 6.6060 Acc: 0.4067
+
+
+Protonet_ECA :Prev Val Results -- Loss: 8.6495 Acc: 0.3944
+0.8817173099517817
+Protonet_ECA :Val Results -- Loss: 7.7678 Acc: 0.3885
+
+
+Protonet: Epoch 5 Train -- Loss: 7.7217 Acc: 0.2078
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6200 Acc: 0.1939
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.4663 Acc: 0.2206
+Protonet_ECA: Epoch 5 Train -- Loss: 6.9556 Acc: 0.2165
+Protonet :Prev Val Results -- Loss: 8.7650 Acc: 0.3843
+0.8956115207672122
+Protonet :Val Results -- Loss: 7.8694 Acc: 0.3849
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5790 Acc: 0.3976
+0.08056191158294723
+Protonet_SE-Net :Val Results -- Loss: 6.6595 Acc: 0.4011
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6060 Acc: 0.4067
+0.05044434738159165
+Protonet_CBAM :Val Results -- Loss: 6.6565 Acc: 0.3984
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.7678 Acc: 0.3885
+0.5516694412231447
+Protonet_ECA :Val Results -- Loss: 7.2161 Acc: 0.3940
+
+
+Protonet: Epoch 6 Train -- Loss: 7.3038 Acc: 0.2163
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.5852 Acc: 0.1970
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4254 Acc: 0.2230
+Protonet_ECA: Epoch 6 Train -- Loss: 6.7162 Acc: 0.2187
+Protonet :Prev Val Results -- Loss: 7.8694 Acc: 0.3849
+0.5744177703857423
+Protonet :Val Results -- Loss: 7.2950 Acc: 0.3899
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6595 Acc: 0.4011
+0.018509241104126772
+Protonet_SE-Net :Val Results -- Loss: 6.6410 Acc: 0.3967
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6565 Acc: 0.3984
+0.017407902717589963
+Protonet_CBAM :Val Results -- Loss: 6.6391 Acc: 0.4044
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.2161 Acc: 0.3940
+0.39090555763244605
+Protonet_ECA :Val Results -- Loss: 6.8252 Acc: 0.3977
+
+
+Protonet: Epoch 7 Train -- Loss: 7.0155 Acc: 0.2187
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5736 Acc: 0.1934
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4103 Acc: 0.2214
+Protonet_ECA: Epoch 7 Train -- Loss: 6.5971 Acc: 0.2204
+Protonet :Prev Val Results -- Loss: 7.2950 Acc: 0.3899
+0.39140395355224555
+Protonet :Val Results -- Loss: 7.6864 Acc: 0.3927
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6410 Acc: 0.3967
+0.0195803575515745
+Protonet_SE-Net :Val Results -- Loss: 6.6214 Acc: 0.3973
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6391 Acc: 0.4044
+0.016891565322875834
+Protonet_CBAM :Val Results -- Loss: 6.6222 Acc: 0.4017
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8252 Acc: 0.3977
+0.00324502849578856
+Protonet_ECA :Val Results -- Loss: 6.8220 Acc: 0.4001
+
+
+Protonet: Epoch 8 Train -- Loss: 6.7843 Acc: 0.2241
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5882 Acc: 0.1931
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4411 Acc: 0.2265
+Protonet :Prev Val Results -- Loss: 7.6864 Acc: 0.3927
+0.637458097457885
+Protonet :Val Results -- Loss: 7.0489 Acc: 0.3907
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6214 Acc: 0.3973
+0.013596525192260955
+Protonet_SE-Net :Val Results -- Loss: 6.6079 Acc: 0.4016
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6222 Acc: 0.4017
+0.007641214370726956
+Protonet_CBAM :Val Results -- Loss: 6.6298 Acc: 0.4024
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6271 Acc: 0.2230
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.5553 Acc: 0.1973
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.3763 Acc: 0.2246
+Protonet :Prev Val Results -- Loss: 7.0489 Acc: 0.3907
+0.3383750514984136
+Protonet :Val Results -- Loss: 6.7105 Acc: 0.3872
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6079 Acc: 0.4016
+0.0469710159301755
+Protonet_SE-Net :Val Results -- Loss: 6.5609 Acc: 0.3859
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6298 Acc: 0.4024
+0.03800822257995584
+Protonet_CBAM :Val Results -- Loss: 6.5918 Acc: 0.4029
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5144 Acc: 0.2268
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.5504 Acc: 0.1993
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.3948 Acc: 0.2238
+Protonet :Prev Val Results -- Loss: 6.7105 Acc: 0.3872
+0.12738943195343033
+Protonet :Val Results -- Loss: 6.8379 Acc: 0.3985
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5609 Acc: 0.3859
+0.028095270156860863
+Protonet_SE-Net :Val Results -- Loss: 6.5890 Acc: 0.4035
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5918 Acc: 0.4029
+0.026449474334716783
+Protonet_CBAM :Val Results -- Loss: 6.6183 Acc: 0.4113
+
+
+Protonet: Epoch 11 Train -- Loss: 6.4884 Acc: 0.2224
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.5550 Acc: 0.1957
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.4060 Acc: 0.2212
+Protonet :Prev Val Results -- Loss: 6.8379 Acc: 0.3985
+0.12104513740539513
+Protonet :Val Results -- Loss: 6.7169 Acc: 0.3901
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5890 Acc: 0.4035
+0.009107597351073693
+Protonet_SE-Net :Val Results -- Loss: 6.5981 Acc: 0.3917
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6183 Acc: 0.4113
+0.00890972709655724
+Protonet_CBAM :Val Results -- Loss: 6.6272 Acc: 0.3991
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4455 Acc: 0.2310
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.5504 Acc: 0.1957
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.4033 Acc: 0.2281
+Protonet :Prev Val Results -- Loss: 6.7169 Acc: 0.3901
+0.057068524360657236
+Protonet :Val Results -- Loss: 6.6598 Acc: 0.3883
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5981 Acc: 0.3917
+0.026635906219482308
+Protonet_SE-Net :Val Results -- Loss: 6.5714 Acc: 0.3964
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6272 Acc: 0.3991
+0.026773632049559737
+Protonet_CBAM :Val Results -- Loss: 6.6004 Acc: 0.3980
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4515 Acc: 0.2268
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.5842 Acc: 0.1991
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.4174 Acc: 0.2248
+Protonet :Prev Val Results -- Loss: 6.6598 Acc: 0.3883
+0.07917037010192907
+Protonet :Val Results -- Loss: 6.7390 Acc: 0.3981
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5714 Acc: 0.3964
+0.09459055519103998
+Protonet_SE-Net :Val Results -- Loss: 6.6660 Acc: 0.4009
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6004 Acc: 0.3980
+0.09055677509307802
+Protonet_CBAM :Val Results -- Loss: 6.6910 Acc: 0.3985
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4006 Acc: 0.2230
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.5181 Acc: 0.2007
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.3684 Acc: 0.2294
+Protonet :Prev Val Results -- Loss: 6.7390 Acc: 0.3981
+0.05663791656494155
+Protonet :Val Results -- Loss: 6.6823 Acc: 0.3971
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6660 Acc: 0.4009
+0.053621114730835195
+Protonet_SE-Net :Val Results -- Loss: 6.6124 Acc: 0.4075
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6910 Acc: 0.3985
+0.047358195304870065
+Protonet_CBAM :Val Results -- Loss: 6.6436 Acc: 0.4017
+
+
+Protonet: Epoch 15 Train -- Loss: 6.4045 Acc: 0.2302
+Protonet_SE-Net: Epoch 15 Train -- Loss: 6.5423 Acc: 0.1994
+Protonet_CBAM: Epoch 15 Train -- Loss: 6.3786 Acc: 0.2275
+Protonet :Prev Val Results -- Loss: 6.6823 Acc: 0.3971
+0.027783837318420268
+Protonet :Val Results -- Loss: 6.6546 Acc: 0.3956
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6124 Acc: 0.4075
+0.020084606170653885
+Protonet_SE-Net :Val Results -- Loss: 6.5923 Acc: 0.3991
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6436 Acc: 0.4017
+0.02758639430999832
+Protonet_CBAM :Val Results -- Loss: 6.6160 Acc: 0.4031
+
+
+Protonet: Epoch 16 Train -- Loss: 6.3787 Acc: 0.2306
+Protonet_SE-Net: Epoch 16 Train -- Loss: 6.5291 Acc: 0.2006
+Protonet_CBAM: Epoch 16 Train -- Loss: 6.3662 Acc: 0.2288
+Protonet :Prev Val Results -- Loss: 6.6546 Acc: 0.3956
+0.015105148315430306
+Protonet :Val Results -- Loss: 6.6395 Acc: 0.3941
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5923 Acc: 0.3991
+0.004819578170776495
+Protonet_SE-Net :Val Results -- Loss: 6.5875 Acc: 0.3912
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6160 Acc: 0.4031
+0.004678478240966122
+Protonet_CBAM :Val Results -- Loss: 6.6113 Acc: 0.3976
+
+
+Protonet: Epoch 17 Train -- Loss: 6.4130 Acc: 0.2278
+Protonet_SE-Net: Epoch 17 Train -- Loss: 6.5338 Acc: 0.1997
+Protonet_CBAM: Epoch 17 Train -- Loss: 6.3763 Acc: 0.2294
+Protonet :Prev Val Results -- Loss: 6.6395 Acc: 0.3941
+0.010725712776184615
+Protonet :Val Results -- Loss: 6.6502 Acc: 0.3955
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5875 Acc: 0.3912
+0.0002921133041384749
+Protonet_SE-Net :Val Results -- Loss: 6.5872 Acc: 0.3991
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6113 Acc: 0.3976
+0.008354825973510671
+Protonet_CBAM :Val Results -- Loss: 6.6197 Acc: 0.3933
+
+
+Protonet: Epoch 18 Train -- Loss: 6.4055 Acc: 0.2260
+Protonet_CBAM: Epoch 18 Train -- Loss: 6.3869 Acc: 0.2256
+Protonet :Prev Val Results -- Loss: 6.6502 Acc: 0.3955
+0.06872850036621081
+Protonet :Val Results -- Loss: 6.5815 Acc: 0.3959
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6197 Acc: 0.3933
+0.0747433252334595
+Protonet_CBAM :Val Results -- Loss: 6.5450 Acc: 0.4052
+
+
+Protonet: Epoch 19 Train -- Loss: 6.4133 Acc: 0.2284
+Protonet_CBAM: Epoch 19 Train -- Loss: 6.3940 Acc: 0.2264
+Protonet :Prev Val Results -- Loss: 6.5815 Acc: 0.3959
+0.08393329524993831
+Protonet :Val Results -- Loss: 6.6654 Acc: 0.4021
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5450 Acc: 0.4052
+0.08861533832549995
+Protonet_CBAM :Val Results -- Loss: 6.6336 Acc: 0.4047
+
+
+Protonet: Epoch 20 Train -- Loss: 6.4058 Acc: 0.2242
+Protonet_CBAM: Epoch 20 Train -- Loss: 6.3894 Acc: 0.2295
+Protonet :Prev Val Results -- Loss: 6.6654 Acc: 0.4021
+0.020885999679565614
+Protonet :Val Results -- Loss: 6.6863 Acc: 0.4033
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6336 Acc: 0.4047
+0.026278814315796595
+Protonet_CBAM :Val Results -- Loss: 6.6598 Acc: 0.4037
+
+
+Protonet: Epoch 21 Train -- Loss: 6.4071 Acc: 0.2301
+Protonet_CBAM: Epoch 21 Train -- Loss: 6.3738 Acc: 0.2275
+Protonet :Prev Val Results -- Loss: 6.6863 Acc: 0.4033
+0.04310128211975073
+Protonet :Val Results -- Loss: 6.6432 Acc: 0.3881
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6598 Acc: 0.4037
+0.038947472572327335
+Protonet_CBAM :Val Results -- Loss: 6.6209 Acc: 0.3905
+
+
+Protonet: Epoch 22 Train -- Loss: 6.3766 Acc: 0.2271
+Protonet_CBAM: Epoch 22 Train -- Loss: 6.3558 Acc: 0.2245
+Protonet :Prev Val Results -- Loss: 6.6432 Acc: 0.3881
+0.015632292747497445
+Protonet :Val Results -- Loss: 6.6275 Acc: 0.3913
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6209 Acc: 0.3905
+0.027068714141845085
+Protonet_CBAM :Val Results -- Loss: 6.5938 Acc: 0.3951
+
+
+Protonet: Epoch 23 Train -- Loss: 6.4062 Acc: 0.2293
+Protonet_CBAM: Epoch 23 Train -- Loss: 6.3739 Acc: 0.2294
+Protonet :Prev Val Results -- Loss: 6.6275 Acc: 0.3913
+0.04291363430023143
+Protonet :Val Results -- Loss: 6.6705 Acc: 0.3897
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5938 Acc: 0.3951
+0.04514665317535371
+Protonet_CBAM :Val Results -- Loss: 6.6390 Acc: 0.4047
+
+
+Protonet: Epoch 24 Train -- Loss: 6.4177 Acc: 0.2280
+Protonet_CBAM: Epoch 24 Train -- Loss: 6.3930 Acc: 0.2271
+Protonet :Prev Val Results -- Loss: 6.6705 Acc: 0.3897
+0.008694852828980082
+Protonet :Val Results -- Loss: 6.6791 Acc: 0.3976
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6390 Acc: 0.4047
+0.012531084060668718
+Protonet_CBAM :Val Results -- Loss: 6.6515 Acc: 0.3949
+
+
+Protonet: Epoch 25 Train -- Loss: 6.3885 Acc: 0.2260
+Protonet_CBAM: Epoch 25 Train -- Loss: 6.3701 Acc: 0.2286
+Protonet :Prev Val Results -- Loss: 6.6791 Acc: 0.3976
+0.009689648628235403
+Protonet :Val Results -- Loss: 6.6695 Acc: 0.4028
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6515 Acc: 0.3949
+0.009480996131896902
+Protonet_CBAM :Val Results -- Loss: 6.6420 Acc: 0.4041
+
+
+Protonet: Epoch 26 Train -- Loss: 6.4312 Acc: 0.2253
+Protonet_CBAM: Epoch 26 Train -- Loss: 6.4190 Acc: 0.2216
+Protonet :Prev Val Results -- Loss: 6.6695 Acc: 0.4028
+0.015966300964355362
+Protonet :Val Results -- Loss: 6.6535 Acc: 0.4005
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6420 Acc: 0.4041
+0.011774067878723038
+Protonet_CBAM :Val Results -- Loss: 6.6303 Acc: 0.4037
+
+
+Protonet: Epoch 27 Train -- Loss: 6.4145 Acc: 0.2294
+Protonet_CBAM: Epoch 27 Train -- Loss: 6.3881 Acc: 0.2301
+Protonet :Prev Val Results -- Loss: 6.6535 Acc: 0.4005
+0.02975750350952122
+Protonet :Val Results -- Loss: 6.6832 Acc: 0.3857
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6303 Acc: 0.4037
+0.023074379920959842
+Protonet_CBAM :Val Results -- Loss: 6.6533 Acc: 0.3936
+
+
+Protonet: Epoch 28 Train -- Loss: 6.3894 Acc: 0.2281
+Protonet_CBAM: Epoch 28 Train -- Loss: 6.3759 Acc: 0.2237
+Protonet :Prev Val Results -- Loss: 6.6832 Acc: 0.3857
+0.01147818470001205
+Protonet :Val Results -- Loss: 6.6718 Acc: 0.3940
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6533 Acc: 0.3936
+0.016475810050964768
+Protonet_CBAM :Val Results -- Loss: 6.6369 Acc: 0.4099
+
+
+Protonet: Epoch 29 Train -- Loss: 6.3970 Acc: 0.2327
+Protonet_CBAM: Epoch 29 Train -- Loss: 6.3714 Acc: 0.2256
+Protonet :Prev Val Results -- Loss: 6.6718 Acc: 0.3940
+0.0679812593460083
+Protonet :Val Results -- Loss: 6.6038 Acc: 0.3948
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6369 Acc: 0.4099
+0.059762736320495335
+Protonet_CBAM :Val Results -- Loss: 6.5771 Acc: 0.4011
+
+
+Protonet: Epoch 30 Train -- Loss: 6.4090 Acc: 0.2256
+Protonet_CBAM: Epoch 30 Train -- Loss: 6.3836 Acc: 0.2322
+Protonet :Prev Val Results -- Loss: 6.6038 Acc: 0.3948
+0.010687812805175945
+Protonet :Val Results -- Loss: 6.6145 Acc: 0.3941
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5771 Acc: 0.4011
+0.003585329055786346
+Protonet_CBAM :Val Results -- Loss: 6.5807 Acc: 0.4092
+
+
+Protonet: Epoch 31 Train -- Loss: 6.4213 Acc: 0.2289
+Protonet :Prev Val Results -- Loss: 6.6145 Acc: 0.3941
+0.05158030509948741
+Protonet :Val Results -- Loss: 6.6661 Acc: 0.3891
+
+
+Protonet: Epoch 32 Train -- Loss: 6.4008 Acc: 0.2239
+Protonet :Prev Val Results -- Loss: 6.6661 Acc: 0.3891
+0.0004407663345338264
+Protonet :Val Results -- Loss: 6.6656 Acc: 0.3989
+
+
+Model:  8
+Protonet: Epoch 1 Train -- Loss: 72.4768 Acc: 0.1581
+Protonet_SE-Net: Epoch 1 Train -- Loss: 41.5261 Acc: 0.1554
+Protonet_CBAM: Epoch 1 Train -- Loss: 12.8361 Acc: 0.1732
+Protonet_ECA: Epoch 1 Train -- Loss: 39.2297 Acc: 0.1590
+Protonet: Epoch 2 Train -- Loss: 12.1671 Acc: 0.1861
+Protonet_SE-Net: Epoch 2 Train -- Loss: 8.8850 Acc: 0.1749
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.7890 Acc: 0.1965
+Protonet_ECA: Epoch 2 Train -- Loss: 10.8274 Acc: 0.1889
+Protonet :Prev Val Results -- Loss: 12.0891 Acc: 0.3668
+1.0327311458587634
+Protonet :Val Results -- Loss: 11.0564 Acc: 0.3915
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 8.7085 Acc: 0.3593
+0.5130226478576656
+Protonet_SE-Net :Val Results -- Loss: 8.1954 Acc: 0.3673
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.2255 Acc: 0.3959
+0.24023643684387164
+Protonet_CBAM :Val Results -- Loss: 6.9853 Acc: 0.4101
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.5473 Acc: 0.3688
+0.6309903602600109
+Protonet_ECA :Val Results -- Loss: 11.1783 Acc: 0.3785
+
+
+Protonet: Epoch 3 Train -- Loss: 10.2579 Acc: 0.2023
+Protonet_SE-Net: Epoch 3 Train -- Loss: 7.1958 Acc: 0.1817
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6197 Acc: 0.2100
+Protonet_ECA: Epoch 3 Train -- Loss: 9.0997 Acc: 0.2021
+Protonet :Prev Val Results -- Loss: 11.0564 Acc: 0.3915
+0.6294068794250496
+Protonet :Val Results -- Loss: 10.4270 Acc: 0.3913
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 8.1954 Acc: 0.3673
+0.7511333894729617
+Protonet_SE-Net :Val Results -- Loss: 7.4443 Acc: 0.3847
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.9853 Acc: 0.4101
+0.1678691120147704
+Protonet_CBAM :Val Results -- Loss: 6.8174 Acc: 0.4031
+
+
+Protonet_ECA :Prev Val Results -- Loss: 11.1783 Acc: 0.3785
+0.7858756179809578
+Protonet_ECA :Val Results -- Loss: 10.3924 Acc: 0.3928
+
+
+Protonet: Epoch 4 Train -- Loss: 9.2347 Acc: 0.2046
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.8353 Acc: 0.1909
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5616 Acc: 0.2180
+Protonet_ECA: Epoch 4 Train -- Loss: 8.2997 Acc: 0.2093
+Protonet :Prev Val Results -- Loss: 10.4270 Acc: 0.3913
+2.0144429731369016
+Protonet :Val Results -- Loss: 8.4125 Acc: 0.3940
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 7.4443 Acc: 0.3847
+0.6647627878189084
+Protonet_SE-Net :Val Results -- Loss: 6.7795 Acc: 0.3871
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.8174 Acc: 0.4031
+0.1624911289215092
+Protonet_CBAM :Val Results -- Loss: 6.6549 Acc: 0.4003
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.3924 Acc: 0.3928
+1.7141797990798953
+Protonet_ECA :Val Results -- Loss: 8.6782 Acc: 0.3929
+
+
+Protonet: Epoch 5 Train -- Loss: 8.2995 Acc: 0.2118
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6806 Acc: 0.1987
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.4706 Acc: 0.2227
+Protonet_ECA: Epoch 5 Train -- Loss: 7.5078 Acc: 0.2184
+Protonet :Prev Val Results -- Loss: 8.4125 Acc: 0.3940
+0.4756054363250737
+Protonet :Val Results -- Loss: 7.9369 Acc: 0.4008
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7795 Acc: 0.3871
+0.2111736421585082
+Protonet_SE-Net :Val Results -- Loss: 6.5684 Acc: 0.3971
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6549 Acc: 0.4003
+0.10594366931915289
+Protonet_CBAM :Val Results -- Loss: 6.5490 Acc: 0.4048
+
+
+Protonet_ECA :Prev Val Results -- Loss: 8.6782 Acc: 0.3929
+1.145512952804565
+Protonet_ECA :Val Results -- Loss: 7.5327 Acc: 0.4024
+
+
+Protonet: Epoch 6 Train -- Loss: 7.5821 Acc: 0.2121
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.5567 Acc: 0.1941
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.3616 Acc: 0.2301
+Protonet_ECA: Epoch 6 Train -- Loss: 7.0079 Acc: 0.2192
+Protonet :Prev Val Results -- Loss: 7.9369 Acc: 0.4008
+0.4774862680435179
+Protonet :Val Results -- Loss: 7.4594 Acc: 0.3939
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5684 Acc: 0.3971
+0.058128445625304614
+Protonet_SE-Net :Val Results -- Loss: 6.6265 Acc: 0.3787
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5490 Acc: 0.4048
+0.05508041572570832
+Protonet_CBAM :Val Results -- Loss: 6.6041 Acc: 0.3881
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.5327 Acc: 0.4024
+0.22275329303741387
+Protonet_ECA :Val Results -- Loss: 7.3100 Acc: 0.3881
+
+
+Protonet: Epoch 7 Train -- Loss: 7.2753 Acc: 0.2174
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5691 Acc: 0.2078
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.3746 Acc: 0.2321
+Protonet_ECA: Epoch 7 Train -- Loss: 6.8495 Acc: 0.2246
+Protonet :Prev Val Results -- Loss: 7.4594 Acc: 0.3939
+0.33642536640167187
+Protonet :Val Results -- Loss: 7.7959 Acc: 0.4023
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6265 Acc: 0.3787
+0.06205852603912376
+Protonet_SE-Net :Val Results -- Loss: 6.6885 Acc: 0.3979
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6041 Acc: 0.3881
+0.06542114257812504
+Protonet_CBAM :Val Results -- Loss: 6.6695 Acc: 0.4031
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.3100 Acc: 0.3881
+0.15142548847198523
+Protonet_ECA :Val Results -- Loss: 7.1585 Acc: 0.3977
+
+
+Protonet: Epoch 8 Train -- Loss: 6.8791 Acc: 0.2194
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.5144 Acc: 0.2032
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.3353 Acc: 0.2340
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5889 Acc: 0.2303
+Protonet :Prev Val Results -- Loss: 7.7959 Acc: 0.4023
+0.9488072795867915
+Protonet :Val Results -- Loss: 6.8471 Acc: 0.3953
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6885 Acc: 0.3979
+0.04103333568572953
+Protonet_SE-Net :Val Results -- Loss: 6.6475 Acc: 0.3987
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6695 Acc: 0.4031
+0.09090782737732006
+Protonet_CBAM :Val Results -- Loss: 6.5786 Acc: 0.4008
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.1585 Acc: 0.3977
+0.11619886207580521
+Protonet_ECA :Val Results -- Loss: 7.0423 Acc: 0.3996
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6748 Acc: 0.2190
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.5436 Acc: 0.2056
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.3644 Acc: 0.2375
+Protonet_ECA: Epoch 9 Train -- Loss: 6.5116 Acc: 0.2282
+Protonet :Prev Val Results -- Loss: 6.8471 Acc: 0.3953
+0.07897069072723362
+Protonet :Val Results -- Loss: 6.9260 Acc: 0.4017
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6475 Acc: 0.3987
+0.03193889999389654
+Protonet_SE-Net :Val Results -- Loss: 6.6156 Acc: 0.3967
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5786 Acc: 0.4008
+0.03507253456115755
+Protonet_CBAM :Val Results -- Loss: 6.6137 Acc: 0.4137
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0423 Acc: 0.3996
+0.30827408885955876
+Protonet_ECA :Val Results -- Loss: 6.7341 Acc: 0.4012
+
+
+Protonet: Epoch 10 Train -- Loss: 6.6178 Acc: 0.2117
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.5391 Acc: 0.2020
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.3748 Acc: 0.2350
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4997 Acc: 0.2235
+Protonet :Prev Val Results -- Loss: 6.9260 Acc: 0.4017
+0.19381644535064702
+Protonet :Val Results -- Loss: 6.7322 Acc: 0.4088
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6156 Acc: 0.3967
+0.028558621406554963
+Protonet_SE-Net :Val Results -- Loss: 6.6441 Acc: 0.4035
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6137 Acc: 0.4137
+0.034401201248169144
+Protonet_CBAM :Val Results -- Loss: 6.6481 Acc: 0.4076
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7341 Acc: 0.4012
+0.020914513587951156
+Protonet_ECA :Val Results -- Loss: 6.7131 Acc: 0.4041
+
+
+Protonet: Epoch 11 Train -- Loss: 6.5475 Acc: 0.2176
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.5347 Acc: 0.2061
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.3673 Acc: 0.2381
+Protonet_ECA: Epoch 11 Train -- Loss: 6.4540 Acc: 0.2305
+Protonet :Prev Val Results -- Loss: 6.7322 Acc: 0.4088
+0.08254677104949959
+Protonet :Val Results -- Loss: 6.6497 Acc: 0.4008
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6441 Acc: 0.4035
+0.003802904129028839
+Protonet_SE-Net :Val Results -- Loss: 6.6403 Acc: 0.3988
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6481 Acc: 0.4076
+0.011509210586547525
+Protonet_CBAM :Val Results -- Loss: 6.6596 Acc: 0.4160
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7131 Acc: 0.4041
+0.05211987304687504
+Protonet_ECA :Val Results -- Loss: 6.6610 Acc: 0.4057
+
+
+Protonet: Epoch 12 Train -- Loss: 6.5227 Acc: 0.2198
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.3562 Acc: 0.2364
+Protonet_ECA: Epoch 12 Train -- Loss: 6.4355 Acc: 0.2300
+Protonet :Prev Val Results -- Loss: 6.6497 Acc: 0.4008
+0.02478200817108167
+Protonet :Val Results -- Loss: 6.6745 Acc: 0.4048
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6596 Acc: 0.4160
+0.021769646644592022
+Protonet_CBAM :Val Results -- Loss: 6.6378 Acc: 0.4025
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6610 Acc: 0.4057
+0.005821328163147399
+Protonet_ECA :Val Results -- Loss: 6.6552 Acc: 0.3979
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4550 Acc: 0.2221
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.3176 Acc: 0.2399
+Protonet_ECA: Epoch 13 Train -- Loss: 6.3817 Acc: 0.2317
+Protonet :Prev Val Results -- Loss: 6.6745 Acc: 0.4048
+0.09523216438293414
+Protonet :Val Results -- Loss: 6.5792 Acc: 0.4039
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6378 Acc: 0.4025
+0.03234310340881397
+Protonet_CBAM :Val Results -- Loss: 6.6055 Acc: 0.4056
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6552 Acc: 0.3979
+0.06026666927337665
+Protonet_ECA :Val Results -- Loss: 6.5949 Acc: 0.3996
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4557 Acc: 0.2240
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.3257 Acc: 0.2415
+Protonet_ECA: Epoch 14 Train -- Loss: 6.3881 Acc: 0.2307
+Protonet :Prev Val Results -- Loss: 6.5792 Acc: 0.4039
+0.03668903255462652
+Protonet :Val Results -- Loss: 6.6159 Acc: 0.3975
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6055 Acc: 0.4056
+0.03555399227142342
+Protonet_CBAM :Val Results -- Loss: 6.6410 Acc: 0.3945
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5949 Acc: 0.3996
+0.039630023002624526
+Protonet_ECA :Val Results -- Loss: 6.6346 Acc: 0.3916
+
+
+Protonet: Epoch 15 Train -- Loss: 6.4520 Acc: 0.2223
+Protonet_CBAM: Epoch 15 Train -- Loss: 6.3326 Acc: 0.2412
+Protonet_ECA: Epoch 15 Train -- Loss: 6.3982 Acc: 0.2320
+Protonet :Prev Val Results -- Loss: 6.6159 Acc: 0.3975
+0.039921783447265824
+Protonet :Val Results -- Loss: 6.5760 Acc: 0.3955
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6410 Acc: 0.3945
+0.033878144264220644
+Protonet_CBAM :Val Results -- Loss: 6.6071 Acc: 0.4009
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6346 Acc: 0.3916
+0.04479286384582526
+Protonet_ECA :Val Results -- Loss: 6.5898 Acc: 0.3936
+
+
+Protonet: Epoch 16 Train -- Loss: 6.4395 Acc: 0.2158
+Protonet_CBAM: Epoch 16 Train -- Loss: 6.3235 Acc: 0.2367
+Protonet_ECA: Epoch 16 Train -- Loss: 6.3816 Acc: 0.2284
+Protonet :Prev Val Results -- Loss: 6.5760 Acc: 0.3955
+0.005029868125915549
+Protonet :Val Results -- Loss: 6.5810 Acc: 0.4059
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6071 Acc: 0.4009
+0.0029583015441891902
+Protonet_CBAM :Val Results -- Loss: 6.6101 Acc: 0.4117
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5898 Acc: 0.3936
+0.0050974292755130435
+Protonet_ECA :Val Results -- Loss: 6.5949 Acc: 0.4031
+
+
+Protonet: Epoch 17 Train -- Loss: 6.4811 Acc: 0.2215
+Protonet_ECA: Epoch 17 Train -- Loss: 6.4174 Acc: 0.2311
+Protonet :Prev Val Results -- Loss: 6.5810 Acc: 0.4059
+0.005576725006103622
+Protonet :Val Results -- Loss: 6.5754 Acc: 0.4136
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5949 Acc: 0.4031
+0.0037113027572628354
+Protonet_ECA :Val Results -- Loss: 6.5912 Acc: 0.4044
+
+
+Protonet: Epoch 18 Train -- Loss: 6.4565 Acc: 0.2232
+Protonet :Prev Val Results -- Loss: 6.5754 Acc: 0.4136
+0.03819849681854226
+Protonet :Val Results -- Loss: 6.6136 Acc: 0.3984
+
+
+Protonet: Epoch 19 Train -- Loss: 6.4610 Acc: 0.2199
+Protonet :Prev Val Results -- Loss: 6.6136 Acc: 0.3984
+0.02052442073822025
+Protonet :Val Results -- Loss: 6.5931 Acc: 0.4111
+
+
+Protonet: Epoch 20 Train -- Loss: 6.4287 Acc: 0.2249
+Protonet :Prev Val Results -- Loss: 6.5931 Acc: 0.4111
+0.0314590425491339
+Protonet :Val Results -- Loss: 6.6246 Acc: 0.3980
+
+
+Protonet: Epoch 21 Train -- Loss: 6.4601 Acc: 0.2155
+Protonet :Prev Val Results -- Loss: 6.6246 Acc: 0.3980
+0.021568772315979423
+Protonet :Val Results -- Loss: 6.6030 Acc: 0.3949
+
+
+Protonet: Epoch 22 Train -- Loss: 6.4651 Acc: 0.2198
+Protonet :Prev Val Results -- Loss: 6.6030 Acc: 0.3949
+0.018867197036743555
+Protonet :Val Results -- Loss: 6.6219 Acc: 0.3976
+
+
+Protonet: Epoch 23 Train -- Loss: 6.4386 Acc: 0.2156
+Protonet :Prev Val Results -- Loss: 6.6219 Acc: 0.3976
+0.007178237915039354
+Protonet :Val Results -- Loss: 6.6147 Acc: 0.4055
+
+
+Protonet: Epoch 24 Train -- Loss: 6.4336 Acc: 0.2228
+Protonet :Prev Val Results -- Loss: 6.6147 Acc: 0.4055
+0.1271654386520389
+Protonet :Val Results -- Loss: 6.4875 Acc: 0.3996
+
+
+Protonet: Epoch 25 Train -- Loss: 6.4591 Acc: 0.2207
+Protonet :Prev Val Results -- Loss: 6.4875 Acc: 0.3996
+0.16688823223114024
+Protonet :Val Results -- Loss: 6.6544 Acc: 0.4149
+
+
+Protonet: Epoch 26 Train -- Loss: 6.4715 Acc: 0.2148
+Protonet :Prev Val Results -- Loss: 6.6544 Acc: 0.4149
+0.01659533500671362
+Protonet :Val Results -- Loss: 6.6378 Acc: 0.4057
+
+
+Protonet: Epoch 27 Train -- Loss: 6.4754 Acc: 0.2166
+Protonet :Prev Val Results -- Loss: 6.6378 Acc: 0.4057
+0.03444325160980277
+Protonet :Val Results -- Loss: 6.6034 Acc: 0.4107
+
+
+Protonet: Epoch 28 Train -- Loss: 6.4398 Acc: 0.2247
+Protonet :Prev Val Results -- Loss: 6.6034 Acc: 0.4107
+0.011452705383301343
+Protonet :Val Results -- Loss: 6.6148 Acc: 0.4064
+
+
+Protonet: Epoch 29 Train -- Loss: 6.4275 Acc: 0.2201
+Protonet :Prev Val Results -- Loss: 6.6148 Acc: 0.4064
+0.09157446670532199
+Protonet :Val Results -- Loss: 6.5233 Acc: 0.4096
+
+
+Protonet: Epoch 30 Train -- Loss: 6.4534 Acc: 0.2235
+Protonet :Prev Val Results -- Loss: 6.5233 Acc: 0.4096
+0.1479313449859614
+Protonet :Val Results -- Loss: 6.6712 Acc: 0.4031
+
+
+Protonet: Epoch 31 Train -- Loss: 6.4098 Acc: 0.2179
+Protonet :Prev Val Results -- Loss: 6.6712 Acc: 0.4031
+0.027944344520569153
+Protonet :Val Results -- Loss: 6.6432 Acc: 0.4132
+
+
+Protonet: Epoch 32 Train -- Loss: 6.4671 Acc: 0.2203
+Protonet :Prev Val Results -- Loss: 6.6432 Acc: 0.4132
+0.04803375625610329
+Protonet :Val Results -- Loss: 6.5952 Acc: 0.3985
+
+
+Protonet: Epoch 33 Train -- Loss: 6.4170 Acc: 0.2196
+Protonet :Prev Val Results -- Loss: 6.5952 Acc: 0.3985
+0.029865492820739803
+Protonet :Val Results -- Loss: 6.6251 Acc: 0.3972
+
+
+Protonet: Epoch 34 Train -- Loss: 6.4330 Acc: 0.2287
+Protonet :Prev Val Results -- Loss: 6.6251 Acc: 0.3972
+0.0026676158905027947
+Protonet :Val Results -- Loss: 6.6224 Acc: 0.4031
+
+
+Model:  9
+Protonet: Epoch 1 Train -- Loss: 61.2768 Acc: 0.1539
+Protonet_SE-Net: Epoch 1 Train -- Loss: 33.4085 Acc: 0.1439
+Protonet_CBAM: Epoch 1 Train -- Loss: 17.6153 Acc: 0.1680
+Protonet_ECA: Epoch 1 Train -- Loss: 39.3736 Acc: 0.1527
+Protonet: Epoch 2 Train -- Loss: 11.6257 Acc: 0.1767
+Protonet_SE-Net: Epoch 2 Train -- Loss: 8.7151 Acc: 0.1628
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.8000 Acc: 0.1861
+Protonet_ECA: Epoch 2 Train -- Loss: 9.7047 Acc: 0.1797
+Protonet :Prev Val Results -- Loss: 13.7587 Acc: 0.3712
+0.03833881378173842
+Protonet :Val Results -- Loss: 13.7971 Acc: 0.3823
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 9.8279 Acc: 0.3593
+0.7116050233840934
+Protonet_SE-Net :Val Results -- Loss: 9.1163 Acc: 0.3619
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 7.0086 Acc: 0.3933
+0.2747329492568964
+Protonet_CBAM :Val Results -- Loss: 6.7339 Acc: 0.3995
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.8096 Acc: 0.3644
+0.11750807762146032
+Protonet_ECA :Val Results -- Loss: 10.9271 Acc: 0.3737
+
+
+Protonet: Epoch 3 Train -- Loss: 10.0557 Acc: 0.1949
+Protonet_SE-Net: Epoch 3 Train -- Loss: 7.4548 Acc: 0.1788
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6505 Acc: 0.1965
+Protonet_ECA: Epoch 3 Train -- Loss: 8.2306 Acc: 0.1966
+Protonet :Prev Val Results -- Loss: 13.7971 Acc: 0.3823
+5.8121064624786385
+Protonet :Val Results -- Loss: 7.9850 Acc: 0.3988
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 9.1163 Acc: 0.3619
+2.118849066734314
+Protonet_SE-Net :Val Results -- Loss: 6.9974 Acc: 0.3937
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7339 Acc: 0.3995
+0.11814091205596977
+Protonet_CBAM :Val Results -- Loss: 6.6158 Acc: 0.4041
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.9271 Acc: 0.3737
+2.468818413734436
+Protonet_ECA :Val Results -- Loss: 8.4583 Acc: 0.3897
+
+
+Protonet: Epoch 4 Train -- Loss: 8.9302 Acc: 0.2040
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.8899 Acc: 0.1907
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.6040 Acc: 0.2047
+Protonet_ECA: Epoch 4 Train -- Loss: 7.4834 Acc: 0.2074
+Protonet :Prev Val Results -- Loss: 7.9850 Acc: 0.3988
+1.8969248504638667
+Protonet :Val Results -- Loss: 9.8819 Acc: 0.3865
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.9974 Acc: 0.3937
+0.09238847446441678
+Protonet_SE-Net :Val Results -- Loss: 6.9050 Acc: 0.3819
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6158 Acc: 0.4041
+0.018616891860961715
+Protonet_CBAM :Val Results -- Loss: 6.5971 Acc: 0.3941
+
+
+Protonet_ECA :Prev Val Results -- Loss: 8.4583 Acc: 0.3897
+0.9805929403305056
+Protonet_ECA :Val Results -- Loss: 7.4777 Acc: 0.3849
+
+
+Protonet: Epoch 5 Train -- Loss: 8.0882 Acc: 0.2048
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.7579 Acc: 0.1985
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.5672 Acc: 0.2065
+Protonet_ECA: Epoch 5 Train -- Loss: 7.2019 Acc: 0.2098
+Protonet :Prev Val Results -- Loss: 9.8819 Acc: 0.3865
+1.8062176656723015
+Protonet :Val Results -- Loss: 8.0757 Acc: 0.3829
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.9050 Acc: 0.3819
+0.304981256484985
+Protonet_SE-Net :Val Results -- Loss: 6.6000 Acc: 0.3873
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5971 Acc: 0.3941
+0.046055115699767946
+Protonet_CBAM :Val Results -- Loss: 6.5511 Acc: 0.3900
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.4777 Acc: 0.3849
+0.6214004850387571
+Protonet_ECA :Val Results -- Loss: 6.8563 Acc: 0.3891
+
+
+Protonet: Epoch 6 Train -- Loss: 7.4281 Acc: 0.2145
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6137 Acc: 0.2055
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.5010 Acc: 0.2118
+Protonet_ECA: Epoch 6 Train -- Loss: 6.7782 Acc: 0.2226
+Protonet :Prev Val Results -- Loss: 8.0757 Acc: 0.3829
+0.44560562133789094
+Protonet :Val Results -- Loss: 7.6301 Acc: 0.3964
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6000 Acc: 0.3873
+0.040581314086913345
+Protonet_SE-Net :Val Results -- Loss: 6.6406 Acc: 0.3949
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5511 Acc: 0.3900
+0.0067898941040036576
+Protonet_CBAM :Val Results -- Loss: 6.5579 Acc: 0.4093
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8563 Acc: 0.3891
+0.15874761199951148
+Protonet_ECA :Val Results -- Loss: 7.0151 Acc: 0.3956
+
+
+Protonet: Epoch 7 Train -- Loss: 7.1006 Acc: 0.2188
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.5712 Acc: 0.2120
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4798 Acc: 0.2214
+Protonet_ECA: Epoch 7 Train -- Loss: 6.7036 Acc: 0.2251
+Protonet :Prev Val Results -- Loss: 7.6301 Acc: 0.3964
+0.5929581899642944
+Protonet :Val Results -- Loss: 7.0371 Acc: 0.3961
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6406 Acc: 0.3949
+0.25463973712921195
+Protonet_SE-Net :Val Results -- Loss: 6.8953 Acc: 0.3804
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5579 Acc: 0.4093
+0.0876119613647468
+Protonet_CBAM :Val Results -- Loss: 6.6455 Acc: 0.3955
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.0151 Acc: 0.3956
+0.09389721965789732
+Protonet_ECA :Val Results -- Loss: 6.9212 Acc: 0.3869
+
+
+Protonet: Epoch 8 Train -- Loss: 6.7908 Acc: 0.2192
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.4948 Acc: 0.2108
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4480 Acc: 0.2175
+Protonet_ECA: Epoch 8 Train -- Loss: 6.4998 Acc: 0.2275
+Protonet :Prev Val Results -- Loss: 7.0371 Acc: 0.3961
+0.025341468811035384
+Protonet :Val Results -- Loss: 7.0625 Acc: 0.3967
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.8953 Acc: 0.3804
+0.2101496677398682
+Protonet_SE-Net :Val Results -- Loss: 6.6851 Acc: 0.3920
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6455 Acc: 0.3955
+0.03633047676086498
+Protonet_CBAM :Val Results -- Loss: 6.6092 Acc: 0.4000
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.9212 Acc: 0.3869
+0.09265737724304213
+Protonet_ECA :Val Results -- Loss: 6.8285 Acc: 0.3997
+
+
+Protonet: Epoch 9 Train -- Loss: 6.6434 Acc: 0.2195
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.4641 Acc: 0.2108
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.4179 Acc: 0.2239
+Protonet_ECA: Epoch 9 Train -- Loss: 6.4436 Acc: 0.2288
+Protonet :Prev Val Results -- Loss: 7.0625 Acc: 0.3967
+0.28602169132232635
+Protonet :Val Results -- Loss: 6.7764 Acc: 0.3967
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6851 Acc: 0.3920
+0.021569113731384704
+Protonet_SE-Net :Val Results -- Loss: 6.6635 Acc: 0.3972
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6092 Acc: 0.4000
+0.0046048679351802235
+Protonet_CBAM :Val Results -- Loss: 6.6046 Acc: 0.4115
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8285 Acc: 0.3997
+0.1965923681259154
+Protonet_ECA :Val Results -- Loss: 6.6319 Acc: 0.4008
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5650 Acc: 0.2146
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.4787 Acc: 0.2159
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.4536 Acc: 0.2160
+Protonet_ECA: Epoch 10 Train -- Loss: 6.4324 Acc: 0.2285
+Protonet :Prev Val Results -- Loss: 6.7764 Acc: 0.3967
+0.066568327903747
+Protonet :Val Results -- Loss: 6.8430 Acc: 0.3965
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6635 Acc: 0.3972
+0.02416547679901182
+Protonet_SE-Net :Val Results -- Loss: 6.6877 Acc: 0.3852
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6046 Acc: 0.4115
+0.024854879379272
+Protonet_CBAM :Val Results -- Loss: 6.6294 Acc: 0.3948
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6319 Acc: 0.4008
+0.0872718439102167
+Protonet_ECA :Val Results -- Loss: 6.7192 Acc: 0.3927
+
+
+Protonet: Epoch 11 Train -- Loss: 6.5014 Acc: 0.2148
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.4384 Acc: 0.2180
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.4306 Acc: 0.2090
+Protonet_ECA: Epoch 11 Train -- Loss: 6.3922 Acc: 0.2287
+Protonet :Prev Val Results -- Loss: 6.8430 Acc: 0.3965
+0.02868124198913513
+Protonet :Val Results -- Loss: 6.8143 Acc: 0.3941
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6877 Acc: 0.3852
+0.08779755115508969
+Protonet_SE-Net :Val Results -- Loss: 6.7755 Acc: 0.3872
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6294 Acc: 0.3948
+0.11329663848876947
+Protonet_CBAM :Val Results -- Loss: 6.7427 Acc: 0.3965
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7192 Acc: 0.3927
+0.06076735782623288
+Protonet_ECA :Val Results -- Loss: 6.7800 Acc: 0.3903
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4755 Acc: 0.2181
+Protonet_SE-Net: Epoch 12 Train -- Loss: 6.4398 Acc: 0.2150
+Protonet_CBAM: Epoch 12 Train -- Loss: 6.4159 Acc: 0.2180
+Protonet_ECA: Epoch 12 Train -- Loss: 6.3855 Acc: 0.2273
+Protonet :Prev Val Results -- Loss: 6.8143 Acc: 0.3941
+0.253191911697388
+Protonet :Val Results -- Loss: 6.5611 Acc: 0.4021
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7755 Acc: 0.3872
+0.16837980461120594
+Protonet_SE-Net :Val Results -- Loss: 6.6071 Acc: 0.4024
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7427 Acc: 0.3965
+0.16804570865631074
+Protonet_CBAM :Val Results -- Loss: 6.5747 Acc: 0.4095
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.7800 Acc: 0.3903
+0.1911785154342649
+Protonet_ECA :Val Results -- Loss: 6.5888 Acc: 0.4072
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4827 Acc: 0.2188
+Protonet_SE-Net: Epoch 13 Train -- Loss: 6.4781 Acc: 0.2147
+Protonet_CBAM: Epoch 13 Train -- Loss: 6.4604 Acc: 0.2182
+Protonet_ECA: Epoch 13 Train -- Loss: 6.4113 Acc: 0.2242
+Protonet :Prev Val Results -- Loss: 6.5611 Acc: 0.4021
+0.0796061134338375
+Protonet :Val Results -- Loss: 6.6407 Acc: 0.4048
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6071 Acc: 0.4024
+0.06459789371490476
+Protonet_SE-Net :Val Results -- Loss: 6.6717 Acc: 0.3916
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5747 Acc: 0.4095
+0.07144133281707798
+Protonet_CBAM :Val Results -- Loss: 6.6461 Acc: 0.4044
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5888 Acc: 0.4072
+0.08595548534393327
+Protonet_ECA :Val Results -- Loss: 6.6748 Acc: 0.4024
+
+
+Protonet: Epoch 14 Train -- Loss: 6.5027 Acc: 0.2169
+Protonet_SE-Net: Epoch 14 Train -- Loss: 6.4847 Acc: 0.2113
+Protonet_CBAM: Epoch 14 Train -- Loss: 6.4754 Acc: 0.2120
+Protonet_ECA: Epoch 14 Train -- Loss: 6.4271 Acc: 0.2270
+Protonet :Prev Val Results -- Loss: 6.6407 Acc: 0.4048
+0.02920297718048026
+Protonet :Val Results -- Loss: 6.6115 Acc: 0.4071
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6717 Acc: 0.3916
+0.033014435768127015
+Protonet_SE-Net :Val Results -- Loss: 6.6387 Acc: 0.3919
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6461 Acc: 0.4044
+0.047608754158019906
+Protonet_CBAM :Val Results -- Loss: 6.5985 Acc: 0.4036
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6748 Acc: 0.4024
+0.03287217712402324
+Protonet_ECA :Val Results -- Loss: 6.6419 Acc: 0.3903
+
+
+Protonet: Epoch 15 Train -- Loss: 6.5127 Acc: 0.2163
+Protonet_SE-Net: Epoch 15 Train -- Loss: 6.4893 Acc: 0.2118
+Protonet_CBAM: Epoch 15 Train -- Loss: 6.4916 Acc: 0.2136
+Protonet_ECA: Epoch 15 Train -- Loss: 6.4316 Acc: 0.2281
+Protonet :Prev Val Results -- Loss: 6.6115 Acc: 0.4071
+0.05413100242614721
+Protonet :Val Results -- Loss: 6.6657 Acc: 0.3937
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6387 Acc: 0.3919
+0.04862724113464356
+Protonet_SE-Net :Val Results -- Loss: 6.6873 Acc: 0.3895
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5985 Acc: 0.4036
+0.07016786766052174
+Protonet_CBAM :Val Results -- Loss: 6.6687 Acc: 0.3973
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6419 Acc: 0.3903
+0.04447037124633724
+Protonet_ECA :Val Results -- Loss: 6.6864 Acc: 0.4068
+
+
+Protonet: Epoch 16 Train -- Loss: 6.4473 Acc: 0.2134
+Protonet_SE-Net: Epoch 16 Train -- Loss: 6.4313 Acc: 0.2150
+Protonet_CBAM: Epoch 16 Train -- Loss: 6.4181 Acc: 0.2221
+Protonet_ECA: Epoch 16 Train -- Loss: 6.3707 Acc: 0.2298
+Protonet :Prev Val Results -- Loss: 6.6657 Acc: 0.3937
+0.03669946861267093
+Protonet :Val Results -- Loss: 6.6290 Acc: 0.3956
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6873 Acc: 0.3895
+0.042788692474365675
+Protonet_SE-Net :Val Results -- Loss: 6.6446 Acc: 0.3943
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6687 Acc: 0.3973
+0.054423277854919405
+Protonet_CBAM :Val Results -- Loss: 6.6142 Acc: 0.4124
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6864 Acc: 0.4068
+0.03888267326354988
+Protonet_ECA :Val Results -- Loss: 6.6475 Acc: 0.4001
+
+
+Protonet: Epoch 17 Train -- Loss: 6.4542 Acc: 0.2200
+Protonet_SE-Net: Epoch 17 Train -- Loss: 6.4406 Acc: 0.2165
+Protonet_CBAM: Epoch 17 Train -- Loss: 6.4319 Acc: 0.2182
+Protonet_ECA: Epoch 17 Train -- Loss: 6.3705 Acc: 0.2353
+Protonet :Prev Val Results -- Loss: 6.6290 Acc: 0.3956
+0.004069036483764776
+Protonet :Val Results -- Loss: 6.6249 Acc: 0.4044
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6446 Acc: 0.3943
+0.009797474861144906
+Protonet_SE-Net :Val Results -- Loss: 6.6544 Acc: 0.3925
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6142 Acc: 0.4124
+0.011151515007019164
+Protonet_CBAM :Val Results -- Loss: 6.6254 Acc: 0.4091
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6475 Acc: 0.4001
+0.0019606809616083964
+Protonet_ECA :Val Results -- Loss: 6.6455 Acc: 0.4077
+
+
+Protonet_SE-Net: Epoch 18 Train -- Loss: 6.4369 Acc: 0.2113
+Protonet_CBAM: Epoch 18 Train -- Loss: 6.4397 Acc: 0.2164
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6544 Acc: 0.3925
+0.05002702236175516
+Protonet_SE-Net :Val Results -- Loss: 6.6043 Acc: 0.3819
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6254 Acc: 0.4091
+0.06027938365936247
+Protonet_CBAM :Val Results -- Loss: 6.5651 Acc: 0.3997
+
+
+Protonet_SE-Net: Epoch 19 Train -- Loss: 6.4291 Acc: 0.2147
+Protonet_CBAM: Epoch 19 Train -- Loss: 6.4064 Acc: 0.2191
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6043 Acc: 0.3819
+0.02962760066986103
+Protonet_SE-Net :Val Results -- Loss: 6.5747 Acc: 0.3879
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5651 Acc: 0.3997
+0.030522677421569888
+Protonet_CBAM :Val Results -- Loss: 6.5346 Acc: 0.4115
+
+
+Protonet_SE-Net: Epoch 20 Train -- Loss: 6.4483 Acc: 0.2152
+Protonet_CBAM: Epoch 20 Train -- Loss: 6.4205 Acc: 0.2165
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5747 Acc: 0.3879
+0.060673555374146204
+Protonet_SE-Net :Val Results -- Loss: 6.6354 Acc: 0.3884
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5346 Acc: 0.4115
+0.07107596302032437
+Protonet_CBAM :Val Results -- Loss: 6.6057 Acc: 0.4015
+
+
+Protonet_SE-Net: Epoch 21 Train -- Loss: 6.4283 Acc: 0.2134
+Protonet_CBAM: Epoch 21 Train -- Loss: 6.4020 Acc: 0.2182
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6354 Acc: 0.3884
+0.05959227657318067
+Protonet_SE-Net :Val Results -- Loss: 6.6950 Acc: 0.3924
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6057 Acc: 0.4015
+0.06673686122894296
+Protonet_CBAM :Val Results -- Loss: 6.6724 Acc: 0.3988
+
+
+Protonet_SE-Net: Epoch 22 Train -- Loss: 6.4248 Acc: 0.2152
+Protonet_CBAM: Epoch 22 Train -- Loss: 6.3955 Acc: 0.2172
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6950 Acc: 0.3924
+0.06573674583435007
+Protonet_SE-Net :Val Results -- Loss: 6.6292 Acc: 0.3876
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6724 Acc: 0.3988
+0.0863404102325438
+Protonet_CBAM :Val Results -- Loss: 6.5861 Acc: 0.4120
+
+
+Protonet_SE-Net: Epoch 23 Train -- Loss: 6.4719 Acc: 0.2162
+Protonet_CBAM: Epoch 23 Train -- Loss: 6.4554 Acc: 0.2132
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6292 Acc: 0.3876
+0.043575838088989016
+Protonet_SE-Net :Val Results -- Loss: 6.6728 Acc: 0.3965
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5861 Acc: 0.4120
+0.05816752052307095
+Protonet_CBAM :Val Results -- Loss: 6.6442 Acc: 0.4037
+
+
+Protonet_SE-Net: Epoch 24 Train -- Loss: 6.4424 Acc: 0.2112
+Protonet_CBAM: Epoch 24 Train -- Loss: 6.4401 Acc: 0.2148
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6728 Acc: 0.3965
+0.027376558303832788
+Protonet_SE-Net :Val Results -- Loss: 6.7002 Acc: 0.3892
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6442 Acc: 0.4037
+0.030128224372863777
+Protonet_CBAM :Val Results -- Loss: 6.6744 Acc: 0.3957
+
+
+Protonet_SE-Net: Epoch 25 Train -- Loss: 6.4493 Acc: 0.2143
+Protonet_CBAM: Epoch 25 Train -- Loss: 6.4409 Acc: 0.2144
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7002 Acc: 0.3892
+0.020421972274780487
+Protonet_SE-Net :Val Results -- Loss: 6.7206 Acc: 0.3935
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6744 Acc: 0.3957
+0.030839118957519673
+Protonet_CBAM :Val Results -- Loss: 6.7052 Acc: 0.3835
+
+
+Protonet_SE-Net: Epoch 26 Train -- Loss: 6.4371 Acc: 0.2122
+Protonet_CBAM: Epoch 26 Train -- Loss: 6.4381 Acc: 0.2128
+Protonet_SE-Net :Prev Val Results -- Loss: 6.7206 Acc: 0.3935
+0.04286227703094525
+Protonet_SE-Net :Val Results -- Loss: 6.6777 Acc: 0.3871
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7052 Acc: 0.3835
+0.06117681503295902
+Protonet_CBAM :Val Results -- Loss: 6.6440 Acc: 0.4087
+
+
+Protonet_SE-Net: Epoch 27 Train -- Loss: 6.4799 Acc: 0.2106
+Protonet_CBAM: Epoch 27 Train -- Loss: 6.4457 Acc: 0.2131
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6777 Acc: 0.3871
+0.06525509643554628
+Protonet_SE-Net :Val Results -- Loss: 6.6125 Acc: 0.3933
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6440 Acc: 0.4087
+0.05712962055206283
+Protonet_CBAM :Val Results -- Loss: 6.5869 Acc: 0.4019
+
+
+Protonet_SE-Net: Epoch 28 Train -- Loss: 6.4519 Acc: 0.2078
+Protonet_CBAM: Epoch 28 Train -- Loss: 6.4323 Acc: 0.2107
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6125 Acc: 0.3933
+0.010386854171752447
+Protonet_SE-Net :Val Results -- Loss: 6.6229 Acc: 0.3848
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5869 Acc: 0.4019
+0.008267776489257805
+Protonet_CBAM :Val Results -- Loss: 6.5952 Acc: 0.3919
+
+
+Protonet_SE-Net: Epoch 29 Train -- Loss: 6.4287 Acc: 0.2126
+Protonet_CBAM: Epoch 29 Train -- Loss: 6.4058 Acc: 0.2181
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6229 Acc: 0.3848
+0.018602309226989355
+Protonet_SE-Net :Val Results -- Loss: 6.6043 Acc: 0.3911
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5952 Acc: 0.3919
+0.01909412384033171
+Protonet_CBAM :Val Results -- Loss: 6.5761 Acc: 0.4081
+
+
+Protonet_SE-Net: Epoch 30 Train -- Loss: 6.4983 Acc: 0.2129
+Protonet_CBAM: Epoch 30 Train -- Loss: 6.4961 Acc: 0.2152
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6043 Acc: 0.3911
+0.02608597087860076
+Protonet_SE-Net :Val Results -- Loss: 6.6304 Acc: 0.3855
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5761 Acc: 0.4081
+0.023702672958373583
+Protonet_CBAM :Val Results -- Loss: 6.5998 Acc: 0.3984
+
+
+Protonet_SE-Net: Epoch 31 Train -- Loss: 6.4709 Acc: 0.2123
+Protonet_CBAM: Epoch 31 Train -- Loss: 6.4354 Acc: 0.2162
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6304 Acc: 0.3855
+0.003936297416687218
+Protonet_SE-Net :Val Results -- Loss: 6.6343 Acc: 0.3924
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5998 Acc: 0.3984
+0.004101987838744492
+Protonet_CBAM :Val Results -- Loss: 6.5957 Acc: 0.4039
+
+
+Model:  10
+Protonet: Epoch 1 Train -- Loss: 43.5601 Acc: 0.1631
+Protonet_SE-Net: Epoch 1 Train -- Loss: 24.9863 Acc: 0.1600
+Protonet_CBAM: Epoch 1 Train -- Loss: 10.6996 Acc: 0.1628
+Protonet_ECA: Epoch 1 Train -- Loss: 25.3525 Acc: 0.1561
+Protonet: Epoch 2 Train -- Loss: 11.7930 Acc: 0.1804
+Protonet_SE-Net: Epoch 2 Train -- Loss: 6.8135 Acc: 0.1509
+Protonet_CBAM: Epoch 2 Train -- Loss: 6.7624 Acc: 0.1844
+Protonet_ECA: Epoch 2 Train -- Loss: 8.0743 Acc: 0.1782
+Protonet :Prev Val Results -- Loss: 13.7353 Acc: 0.3644
+1.3365895977020248
+Protonet :Val Results -- Loss: 12.3987 Acc: 0.3755
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.8151 Acc: 0.3407
+0.13153112411499013
+Protonet_SE-Net :Val Results -- Loss: 6.6835 Acc: 0.3675
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7711 Acc: 0.3729
+0.056700763702393076
+Protonet_CBAM :Val Results -- Loss: 6.7144 Acc: 0.3880
+
+
+Protonet_ECA :Prev Val Results -- Loss: 10.3479 Acc: 0.3655
+2.932272830963135
+Protonet_ECA :Val Results -- Loss: 7.4157 Acc: 0.3847
+
+
+Protonet: Epoch 3 Train -- Loss: 9.7124 Acc: 0.1944
+Protonet_SE-Net: Epoch 3 Train -- Loss: 6.7254 Acc: 0.1651
+Protonet_CBAM: Epoch 3 Train -- Loss: 6.6271 Acc: 0.1982
+Protonet_ECA: Epoch 3 Train -- Loss: 7.0277 Acc: 0.1849
+Protonet :Prev Val Results -- Loss: 12.3987 Acc: 0.3755
+3.5557072515487675
+Protonet :Val Results -- Loss: 8.8430 Acc: 0.3812
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6835 Acc: 0.3675
+0.07300533580780044
+Protonet_SE-Net :Val Results -- Loss: 6.6105 Acc: 0.3723
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.7144 Acc: 0.3880
+0.05558737373351974
+Protonet_CBAM :Val Results -- Loss: 6.6588 Acc: 0.3889
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.4157 Acc: 0.3847
+0.5566570739746091
+Protonet_ECA :Val Results -- Loss: 6.8590 Acc: 0.3828
+
+
+Protonet: Epoch 4 Train -- Loss: 8.3475 Acc: 0.2100
+Protonet_SE-Net: Epoch 4 Train -- Loss: 6.7018 Acc: 0.1773
+Protonet_CBAM: Epoch 4 Train -- Loss: 6.5515 Acc: 0.2143
+Protonet_ECA: Epoch 4 Train -- Loss: 6.7906 Acc: 0.1933
+Protonet :Prev Val Results -- Loss: 8.8430 Acc: 0.3812
+0.5105229864120489
+Protonet :Val Results -- Loss: 8.3325 Acc: 0.3945
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6105 Acc: 0.3723
+0.017962929725646504
+Protonet_SE-Net :Val Results -- Loss: 6.6285 Acc: 0.3836
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6588 Acc: 0.3889
+0.038973302841186275
+Protonet_CBAM :Val Results -- Loss: 6.6977 Acc: 0.3880
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8590 Acc: 0.3828
+0.42939411735534705
+Protonet_ECA :Val Results -- Loss: 7.2884 Acc: 0.3865
+
+
+Protonet: Epoch 5 Train -- Loss: 7.5970 Acc: 0.2064
+Protonet_SE-Net: Epoch 5 Train -- Loss: 6.6783 Acc: 0.1742
+Protonet_CBAM: Epoch 5 Train -- Loss: 6.5063 Acc: 0.2113
+Protonet_ECA: Epoch 5 Train -- Loss: 6.7067 Acc: 0.1930
+Protonet :Prev Val Results -- Loss: 8.3325 Acc: 0.3945
+0.9682349748611445
+Protonet :Val Results -- Loss: 7.3643 Acc: 0.3955
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6285 Acc: 0.3836
+0.06736868286132758
+Protonet_SE-Net :Val Results -- Loss: 6.5611 Acc: 0.3857
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6977 Acc: 0.3880
+0.1271360559463499
+Protonet_CBAM :Val Results -- Loss: 6.5706 Acc: 0.4027
+
+
+Protonet_ECA :Prev Val Results -- Loss: 7.2884 Acc: 0.3865
+0.7062736902236946
+Protonet_ECA :Val Results -- Loss: 6.5821 Acc: 0.3985
+
+
+Protonet: Epoch 6 Train -- Loss: 7.2304 Acc: 0.2167
+Protonet_SE-Net: Epoch 6 Train -- Loss: 6.6618 Acc: 0.1789
+Protonet_CBAM: Epoch 6 Train -- Loss: 6.4585 Acc: 0.2198
+Protonet_ECA: Epoch 6 Train -- Loss: 6.6499 Acc: 0.2040
+Protonet :Prev Val Results -- Loss: 7.3643 Acc: 0.3955
+0.14403838348388742
+Protonet :Val Results -- Loss: 7.2202 Acc: 0.3924
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5611 Acc: 0.3857
+0.008518106460571495
+Protonet_SE-Net :Val Results -- Loss: 6.5526 Acc: 0.3864
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5706 Acc: 0.4027
+0.03816508388519235
+Protonet_CBAM :Val Results -- Loss: 6.6088 Acc: 0.4095
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5821 Acc: 0.3985
+0.2555580892562874
+Protonet_ECA :Val Results -- Loss: 6.8377 Acc: 0.3956
+
+
+Protonet: Epoch 7 Train -- Loss: 6.9432 Acc: 0.2208
+Protonet_SE-Net: Epoch 7 Train -- Loss: 6.6449 Acc: 0.1858
+Protonet_CBAM: Epoch 7 Train -- Loss: 6.4320 Acc: 0.2262
+Protonet_ECA: Epoch 7 Train -- Loss: 6.6225 Acc: 0.2035
+Protonet :Prev Val Results -- Loss: 7.2202 Acc: 0.3924
+0.09158369445800751
+Protonet :Val Results -- Loss: 7.1286 Acc: 0.3917
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5526 Acc: 0.3864
+0.03916313171386676
+Protonet_SE-Net :Val Results -- Loss: 6.5918 Acc: 0.3883
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6088 Acc: 0.4095
+0.010583007812500433
+Protonet_CBAM :Val Results -- Loss: 6.6194 Acc: 0.3939
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.8377 Acc: 0.3956
+0.21942429161071786
+Protonet_ECA :Val Results -- Loss: 6.6183 Acc: 0.3944
+
+
+Protonet: Epoch 8 Train -- Loss: 6.7580 Acc: 0.2214
+Protonet_SE-Net: Epoch 8 Train -- Loss: 6.6328 Acc: 0.1889
+Protonet_CBAM: Epoch 8 Train -- Loss: 6.4132 Acc: 0.2320
+Protonet_ECA: Epoch 8 Train -- Loss: 6.5841 Acc: 0.2040
+Protonet :Prev Val Results -- Loss: 7.1286 Acc: 0.3917
+0.46398553848266566
+Protonet :Val Results -- Loss: 6.6646 Acc: 0.4009
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5918 Acc: 0.3883
+0.04391825962066598
+Protonet_SE-Net :Val Results -- Loss: 6.5479 Acc: 0.3809
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6194 Acc: 0.3939
+0.04236300945281979
+Protonet_CBAM :Val Results -- Loss: 6.5770 Acc: 0.4049
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6183 Acc: 0.3944
+0.0786516571044924
+Protonet_ECA :Val Results -- Loss: 6.5396 Acc: 0.3908
+
+
+Protonet: Epoch 9 Train -- Loss: 6.5915 Acc: 0.2162
+Protonet_SE-Net: Epoch 9 Train -- Loss: 6.6197 Acc: 0.1860
+Protonet_CBAM: Epoch 9 Train -- Loss: 6.3924 Acc: 0.2206
+Protonet_ECA: Epoch 9 Train -- Loss: 6.5597 Acc: 0.2041
+Protonet :Prev Val Results -- Loss: 6.6646 Acc: 0.4009
+0.17103417205810523
+Protonet :Val Results -- Loss: 6.8357 Acc: 0.3891
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.5479 Acc: 0.3809
+0.09232477951049756
+Protonet_SE-Net :Val Results -- Loss: 6.6402 Acc: 0.3923
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.5770 Acc: 0.4049
+0.09434665679931609
+Protonet_CBAM :Val Results -- Loss: 6.6713 Acc: 0.3924
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5396 Acc: 0.3908
+0.11433504676818806
+Protonet_ECA :Val Results -- Loss: 6.6540 Acc: 0.3956
+
+
+Protonet: Epoch 10 Train -- Loss: 6.5603 Acc: 0.2182
+Protonet_SE-Net: Epoch 10 Train -- Loss: 6.6320 Acc: 0.1828
+Protonet_CBAM: Epoch 10 Train -- Loss: 6.3937 Acc: 0.2286
+Protonet_ECA: Epoch 10 Train -- Loss: 6.5612 Acc: 0.2079
+Protonet :Prev Val Results -- Loss: 6.8357 Acc: 0.3891
+0.11306751441955587
+Protonet :Val Results -- Loss: 6.7226 Acc: 0.4009
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6402 Acc: 0.3923
+0.037844588279724256
+Protonet_SE-Net :Val Results -- Loss: 6.6023 Acc: 0.3941
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6713 Acc: 0.3924
+0.031099730491638056
+Protonet_CBAM :Val Results -- Loss: 6.6402 Acc: 0.4028
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6540 Acc: 0.3956
+0.04700838088989201
+Protonet_ECA :Val Results -- Loss: 6.6069 Acc: 0.4005
+
+
+Protonet: Epoch 11 Train -- Loss: 6.5160 Acc: 0.2175
+Protonet_SE-Net: Epoch 11 Train -- Loss: 6.6177 Acc: 0.1857
+Protonet_CBAM: Epoch 11 Train -- Loss: 6.4134 Acc: 0.2273
+Protonet_ECA: Epoch 11 Train -- Loss: 6.5446 Acc: 0.2049
+Protonet :Prev Val Results -- Loss: 6.7226 Acc: 0.4009
+0.08248859214782733
+Protonet :Val Results -- Loss: 6.6401 Acc: 0.4036
+
+
+Protonet_SE-Net :Prev Val Results -- Loss: 6.6023 Acc: 0.3941
+0.0006456680297857176
+Protonet_SE-Net :Val Results -- Loss: 6.6030 Acc: 0.3992
+
+
+Protonet_CBAM :Prev Val Results -- Loss: 6.6402 Acc: 0.4028
+0.003847292900085897
+Protonet_CBAM :Val Results -- Loss: 6.6364 Acc: 0.4037
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6069 Acc: 0.4005
+0.020927747726440238
+Protonet_ECA :Val Results -- Loss: 6.6279 Acc: 0.4012
+
+
+Protonet: Epoch 12 Train -- Loss: 6.4606 Acc: 0.2137
+Protonet_ECA: Epoch 12 Train -- Loss: 6.5078 Acc: 0.1994
+Protonet :Prev Val Results -- Loss: 6.6401 Acc: 0.4036
+0.04714277744293138
+Protonet :Val Results -- Loss: 6.5930 Acc: 0.4072
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6279 Acc: 0.4012
+0.03190752029418942
+Protonet_ECA :Val Results -- Loss: 6.5960 Acc: 0.3941
+
+
+Protonet: Epoch 13 Train -- Loss: 6.4425 Acc: 0.2202
+Protonet_ECA: Epoch 13 Train -- Loss: 6.5065 Acc: 0.2045
+Protonet :Prev Val Results -- Loss: 6.5930 Acc: 0.4072
+0.048380591392517935
+Protonet :Val Results -- Loss: 6.5446 Acc: 0.3955
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5960 Acc: 0.3941
+0.0575330352783201
+Protonet_ECA :Val Results -- Loss: 6.5384 Acc: 0.3987
+
+
+Protonet: Epoch 14 Train -- Loss: 6.4661 Acc: 0.2175
+Protonet_ECA: Epoch 14 Train -- Loss: 6.5294 Acc: 0.2015
+Protonet :Prev Val Results -- Loss: 6.5446 Acc: 0.3955
+0.019677026748657234
+Protonet :Val Results -- Loss: 6.5643 Acc: 0.3891
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5384 Acc: 0.3987
+0.035234436035155525
+Protonet_ECA :Val Results -- Loss: 6.5737 Acc: 0.3956
+
+
+Protonet: Epoch 15 Train -- Loss: 6.5001 Acc: 0.2155
+Protonet_ECA: Epoch 15 Train -- Loss: 6.5646 Acc: 0.2016
+Protonet :Prev Val Results -- Loss: 6.5643 Acc: 0.3891
+0.04956229782104504
+Protonet :Val Results -- Loss: 6.6138 Acc: 0.3983
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.5737 Acc: 0.3956
+0.038034312248230506
+Protonet_ECA :Val Results -- Loss: 6.6117 Acc: 0.4008
+
+
+Protonet: Epoch 16 Train -- Loss: 6.4525 Acc: 0.2117
+Protonet_ECA: Epoch 16 Train -- Loss: 6.5245 Acc: 0.1982
+Protonet :Prev Val Results -- Loss: 6.6138 Acc: 0.3983
+0.05108486080169694
+Protonet :Val Results -- Loss: 6.6649 Acc: 0.3989
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6117 Acc: 0.4008
+0.04804721450805616
+Protonet_ECA :Val Results -- Loss: 6.6597 Acc: 0.3965
+
+
+Protonet: Epoch 17 Train -- Loss: 6.4607 Acc: 0.2222
+Protonet_ECA: Epoch 17 Train -- Loss: 6.5284 Acc: 0.2082
+Protonet :Prev Val Results -- Loss: 6.6649 Acc: 0.3989
+0.055766091346740154
+Protonet :Val Results -- Loss: 6.6092 Acc: 0.3867
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6597 Acc: 0.3965
+0.05938201618194583
+Protonet_ECA :Val Results -- Loss: 6.6004 Acc: 0.3963
+
+
+Protonet: Epoch 18 Train -- Loss: 6.4383 Acc: 0.2143
+Protonet_ECA: Epoch 18 Train -- Loss: 6.5034 Acc: 0.2032
+Protonet :Prev Val Results -- Loss: 6.6092 Acc: 0.3867
+0.005715527534484899
+Protonet :Val Results -- Loss: 6.6034 Acc: 0.4063
+
+
+Protonet_ECA :Prev Val Results -- Loss: 6.6004 Acc: 0.3963
+0.001162029266357223
+Protonet_ECA :Val Results -- Loss: 6.5992 Acc: 0.4081
+
+
+Protonet: Epoch 19 Train -- Loss: 6.4537 Acc: 0.2160
+Protonet :Prev Val Results -- Loss: 6.6034 Acc: 0.4063
+0.026342706680297034
+Protonet :Val Results -- Loss: 6.6298 Acc: 0.3971
+
+
+Protonet: Epoch 20 Train -- Loss: 6.4463 Acc: 0.2212
+Protonet :Prev Val Results -- Loss: 6.6298 Acc: 0.3971
+0.08677053260803191
+Protonet :Val Results -- Loss: 6.5430 Acc: 0.4020
+
+
+Protonet: Epoch 21 Train -- Loss: 6.4889 Acc: 0.2222
+Protonet :Prev Val Results -- Loss: 6.5430 Acc: 0.4020
+0.10180410671234164
+Protonet :Val Results -- Loss: 6.6448 Acc: 0.3981
+
+
+Protonet: Epoch 22 Train -- Loss: 6.4538 Acc: 0.2224
+Protonet :Prev Val Results -- Loss: 6.6448 Acc: 0.3981
+0.08374573707580613
+Protonet :Val Results -- Loss: 6.5611 Acc: 0.4023
+
+
+Protonet: Epoch 23 Train -- Loss: 6.4359 Acc: 0.2191
+Protonet :Prev Val Results -- Loss: 6.5611 Acc: 0.4023
+0.04178723430633546
+Protonet :Val Results -- Loss: 6.6029 Acc: 0.4024
+
+
+Protonet: Epoch 24 Train -- Loss: 6.4318 Acc: 0.2216
+Protonet :Prev Val Results -- Loss: 6.6029 Acc: 0.4024
+0.01793524456024187
+Protonet :Val Results -- Loss: 6.6208 Acc: 0.4037
+
+
+Protonet: Epoch 25 Train -- Loss: 6.4452 Acc: 0.2178
+Protonet :Prev Val Results -- Loss: 6.6208 Acc: 0.4037
+0.002743859291077122
+Protonet :Val Results -- Loss: 6.6235 Acc: 0.4012
+
+
+['Pleural Other' 'Pneumonia' 'Support Devices']
+['Pleural Other', 'Pneumonia', 'Support Devices']
+Test results -- Loss: 3.2113 Acc: 0.1667
+precision: [0.35969868 0.32238193 0.37966805]
+recall: [0.382 0.314 0.366]
+fscore: [0.37051406 0.31813576 0.37270876]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5320480000000001
+AUROC for  Pneumonia :  0.507202
+AUROC for  Support Devices :  0.56959
+Test results -- Loss: 2.9648 Acc: 0.1667
+precision: [0.38345865 0.32931727 0.41914894]
+recall: [0.408 0.328 0.394]
+fscore: [0.39534884 0.32865731 0.40618557]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.57612
+AUROC for  Pneumonia :  0.492596
+AUROC for  Support Devices :  0.596274
+Test results -- Loss: 3.0076 Acc: 0.1667
+precision: [0.38866397 0.33911368 0.40862423]
+recall: [0.384 0.352 0.398]
+fscore: [0.38631791 0.3454367  0.40324215]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5649080000000001
+AUROC for  Pneumonia :  0.505438
+AUROC for  Support Devices :  0.574372
+Test results -- Loss: 3.0042 Acc: 0.1667
+precision: [0.39543726 0.34860558 0.41101695]
+recall: [0.416 0.35  0.388]
+fscore: [0.40545809 0.3493014  0.39917695]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5609
+AUROC for  Pneumonia :  0.50712
+AUROC for  Support Devices :  0.5776300000000001
+Test results -- Loss: 2.8888 Acc: 0.1667
+precision: [0.40513834 0.33969466 0.40851064]
+recall: [0.41  0.356 0.384]
+fscore: [0.40755467 0.34765625 0.39587629]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.591156
+AUROC for  Pneumonia :  0.5197499999999999
+AUROC for  Support Devices :  0.5850939999999999
+Test results -- Loss: 2.9892 Acc: 0.1667
+precision: [0.38836773 0.31360947 0.4       ]
+recall: [0.414 0.318 0.368]
+fscore: [0.40077444 0.31578947 0.38333333]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.568836
+AUROC for  Pneumonia :  0.493086
+AUROC for  Support Devices :  0.5659
+Test results -- Loss: 2.9498 Acc: 0.1667
+precision: [0.40566038 0.34381139 0.44251627]
+recall: [0.43  0.35  0.408]
+fscore: [0.41747573 0.3468781  0.42455775]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.58604
+AUROC for  Pneumonia :  0.51393
+AUROC for  Support Devices :  0.604734
+Test results -- Loss: 2.9448 Acc: 0.1667
+precision: [0.38768116 0.37694013 0.42857143]
+recall: [0.428 0.34  0.426]
+fscore: [0.40684411 0.3575184  0.42728185]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.559458
+AUROC for  Pneumonia :  0.531506
+AUROC for  Support Devices :  0.601236
+Test results -- Loss: 2.9463 Acc: 0.1667
+precision: [0.40196078 0.34406439 0.4158215 ]
+recall: [0.41  0.342 0.41 ]
+fscore: [0.40594059 0.34302909 0.41289023]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.563914
+AUROC for  Pneumonia :  0.519156
+AUROC for  Support Devices :  0.59544
+Test results -- Loss: 2.9419 Acc: 0.1667
+precision: [0.39278937 0.32291667 0.40770791]
+recall: [0.414 0.31  0.402]
+fscore: [0.40311587 0.31632653 0.40483384]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5622980000000001
+AUROC for  Pneumonia :  0.5039819999999999
+AUROC for  Support Devices :  0.59918
+For Protonet
+
+Mean AUROC of  Pleural Other :  0.5666 
+ Std AUROC of  Pleural Other : 0.0154
+Mean AUROC of  Pneumonia :  0.5094 
+ Std AUROC of  Pneumonia : 0.0115
+Mean AUROC of  Support Devices :  0.5869 
+ Std AUROC of  Support Devices : 0.0135
+Test results -- Loss: 2.9042 Acc: 0.1667
+precision: [0.37634409 0.3126294  0.37908497]
+recall: [0.42  0.302 0.348]
+fscore: [0.39697543 0.30722279 0.362878  ]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.560336
+AUROC for  Pneumonia :  0.494682
+AUROC for  Support Devices :  0.5588500000000001
+Test results -- Loss: 2.9267 Acc: 0.1667
+precision: [0.39478958 0.31372549 0.38696538]
+recall: [0.394 0.32  0.38 ]
+fscore: [0.39439439 0.31683168 0.38345106]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.581707
+AUROC for  Pneumonia :  0.502416
+AUROC for  Support Devices :  0.566604
+Test results -- Loss: 2.9208 Acc: 0.1667
+precision: [0.4025974  0.33267327 0.39254386]
+recall: [0.434 0.336 0.358]
+fscore: [0.41770934 0.33432836 0.37447699]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.584188
+AUROC for  Pneumonia :  0.49354299999999995
+AUROC for  Support Devices :  0.5543100000000001
+Test results -- Loss: 2.9060 Acc: 0.1667
+precision: [0.40562249 0.33202358 0.42799189]
+recall: [0.404 0.338 0.422]
+fscore: [0.40480962 0.33498513 0.42497482]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.596722
+AUROC for  Pneumonia :  0.485814
+AUROC for  Support Devices :  0.602492
+Test results -- Loss: 2.9627 Acc: 0.1667
+precision: [0.37858509 0.32838983 0.4       ]
+recall: [0.396 0.31  0.404]
+fscore: [0.38709677 0.31893004 0.40199005]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5723999999999999
+AUROC for  Pneumonia :  0.501488
+AUROC for  Support Devices :  0.579758
+Test results -- Loss: 2.8748 Acc: 0.1667
+precision: [0.40550459 0.36919831 0.42827443]
+recall: [0.442 0.35  0.412]
+fscore: [0.42296651 0.35934292 0.41997961]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5817380000000001
+AUROC for  Pneumonia :  0.5470820000000001
+AUROC for  Support Devices :  0.61021
+Test results -- Loss: 2.9225 Acc: 0.1667
+precision: [0.34525939 0.32378855 0.40246407]
+recall: [0.386 0.294 0.392]
+fscore: [0.36449481 0.3081761  0.39716312]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.551824
+AUROC for  Pneumonia :  0.512826
+AUROC for  Support Devices :  0.57083
+Test results -- Loss: 2.9283 Acc: 0.1667
+precision: [0.36363636 0.3436214  0.40631579]
+recall: [0.392 0.334 0.386]
+fscore: [0.37728585 0.33874239 0.39589744]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.561564
+AUROC for  Pneumonia :  0.5100480000000001
+AUROC for  Support Devices :  0.584552
+Test results -- Loss: 2.9504 Acc: 0.1667
+precision: [0.40040241 0.34819533 0.40413534]
+recall: [0.398 0.328 0.43 ]
+fscore: [0.39919759 0.33779609 0.41666667]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.553078
+AUROC for  Pneumonia :  0.517392
+AUROC for  Support Devices :  0.579149
+Test results -- Loss: 2.9168 Acc: 0.1667
+precision: [0.3747495  0.33022388 0.35053763]
+recall: [0.374 0.354 0.326]
+fscore: [0.37437437 0.34169884 0.33782383]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5455159999999999
+AUROC for  Pneumonia :  0.497774
+AUROC for  Support Devices :  0.533
+For Protonet_SE-Net
+
+Mean AUROC of  Pleural Other :  0.5689 
+ Std AUROC of  Pleural Other : 0.016
+Mean AUROC of  Pneumonia :  0.5063 
+ Std AUROC of  Pneumonia : 0.0163
+Mean AUROC of  Support Devices :  0.574 
+ Std AUROC of  Support Devices : 0.0216
+Test results -- Loss: 2.9360 Acc: 0.1667
+precision: [0.3778626  0.34296724 0.41356674]
+recall: [0.396 0.356 0.378]
+fscore: [0.38671875 0.34936212 0.39498433]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.568712
+AUROC for  Pneumonia :  0.5180899999999999
+AUROC for  Support Devices :  0.5875440000000001
+Test results -- Loss: 2.9630 Acc: 0.1667
+precision: [0.38728324 0.30487805 0.37627812]
+recall: [0.402 0.3   0.368]
+fscore: [0.39450442 0.30241935 0.37209302]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5647420000000001
+AUROC for  Pneumonia :  0.48860200000000004
+AUROC for  Support Devices :  0.548364
+Test results -- Loss: 2.9501 Acc: 0.1667
+precision: [0.37284895 0.34845361 0.40243902]
+recall: [0.39  0.338 0.396]
+fscore: [0.38123167 0.34314721 0.39919355]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.550828
+AUROC for  Pneumonia :  0.5132159999999999
+AUROC for  Support Devices :  0.579442
+Test results -- Loss: 2.9246 Acc: 0.1667
+precision: [0.36346516 0.33467742 0.39534884]
+recall: [0.386 0.332 0.374]
+fscore: [0.37439379 0.33333333 0.38437821]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.554534
+AUROC for  Pneumonia :  0.519854
+AUROC for  Support Devices :  0.5828499999999999
+Test results -- Loss: 2.9695 Acc: 0.1667
+precision: [0.35701599 0.36008677 0.40336134]
+recall: [0.402 0.332 0.384]
+fscore: [0.37817498 0.34547347 0.39344262]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5329079999999999
+AUROC for  Pneumonia :  0.50363
+AUROC for  Support Devices :  0.573658
+Test results -- Loss: 2.9752 Acc: 0.1667
+precision: [0.38211382 0.34790528 0.41394336]
+recall: [0.376 0.382 0.38 ]
+fscore: [0.37903226 0.36415634 0.39624609]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.560208
+AUROC for  Pneumonia :  0.52708
+AUROC for  Support Devices :  0.5812620000000001
+Test results -- Loss: 2.9336 Acc: 0.1667
+precision: [0.36538462 0.32043011 0.39417476]
+recall: [0.38  0.298 0.406]
+fscore: [0.37254902 0.30880829 0.4       ]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.54937
+AUROC for  Pneumonia :  0.49451000000000006
+AUROC for  Support Devices :  0.577636
+Test results -- Loss: 2.9622 Acc: 0.1667
+precision: [0.38446602 0.3006135  0.40725806]
+recall: [0.396 0.294 0.404]
+fscore: [0.39014778 0.29726997 0.40562249]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5392060000000001
+AUROC for  Pneumonia :  0.45760199999999995
+AUROC for  Support Devices :  0.57613
+Test results -- Loss: 2.9363 Acc: 0.1667
+precision: [0.39856373 0.33932584 0.3875502 ]
+recall: [0.444 0.302 0.386]
+fscore: [0.42005676 0.31957672 0.38677355]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.568946
+AUROC for  Pneumonia :  0.493396
+AUROC for  Support Devices :  0.553852
+Test results -- Loss: 2.9475 Acc: 0.1667
+precision: [0.36764706 0.32826087 0.38709677]
+recall: [0.4   0.302 0.384]
+fscore: [0.38314176 0.31458333 0.38554217]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.545342
+AUROC for  Pneumonia :  0.498834
+AUROC for  Support Devices :  0.56467
+For Protonet_CBAM
+
+Mean AUROC of  Pleural Other :  0.5535 
+ Std AUROC of  Pleural Other : 0.0117
+Mean AUROC of  Pneumonia :  0.5015 
+ Std AUROC of  Pneumonia : 0.019
+Mean AUROC of  Support Devices :  0.5725 
+ Std AUROC of  Support Devices : 0.0122
+Test results -- Loss: 2.9213 Acc: 0.1667
+precision: [0.38113208 0.34980237 0.42456897]
+recall: [0.404 0.354 0.394]
+fscore: [0.39223301 0.35188867 0.40871369]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.571534
+AUROC for  Pneumonia :  0.521706
+AUROC for  Support Devices :  0.5938220000000001
+Test results -- Loss: 2.9872 Acc: 0.1667
+precision: [0.39204545 0.34883721 0.4122807 ]
+recall: [0.414 0.36  0.376]
+fscore: [0.40272374 0.35433071 0.39330544]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5688519999999999
+AUROC for  Pneumonia :  0.494896
+AUROC for  Support Devices :  0.589136
+Test results -- Loss: 2.9424 Acc: 0.1667
+precision: [0.37262357 0.35306554 0.39520958]
+recall: [0.392 0.334 0.396]
+fscore: [0.38206628 0.34326824 0.3956044 ]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.567198
+AUROC for  Pneumonia :  0.5198240000000001
+AUROC for  Support Devices :  0.58483
+Test results -- Loss: 3.0986 Acc: 0.1667
+precision: [0.3916501  0.33204633 0.40292276]
+recall: [0.394 0.344 0.386]
+fscore: [0.39282154 0.33791749 0.39427988]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5755699999999999
+AUROC for  Pneumonia :  0.508348
+AUROC for  Support Devices :  0.571735
+Test results -- Loss: 2.9658 Acc: 0.1667
+precision: [0.34408602 0.31168831 0.42708333]
+recall: [0.384 0.288 0.41 ]
+fscore: [0.36294896 0.2993763  0.41836735]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5531159999999999
+AUROC for  Pneumonia :  0.484552
+AUROC for  Support Devices :  0.605546
+Test results -- Loss: 2.9318 Acc: 0.1667
+precision: [0.37739464 0.33400402 0.39293139]
+recall: [0.394 0.332 0.378]
+fscore: [0.38551859 0.332999   0.3853211 ]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.567671
+AUROC for  Pneumonia :  0.522414
+AUROC for  Support Devices :  0.574012
+Test results -- Loss: 3.0667 Acc: 0.1667
+precision: [0.40489642 0.37875752 0.44255319]
+recall: [0.43  0.378 0.416]
+fscore: [0.41707081 0.37837838 0.42886598]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.59512
+AUROC for  Pneumonia :  0.5176019999999999
+AUROC for  Support Devices :  0.610652
+Test results -- Loss: 2.9420 Acc: 0.1667
+precision: [0.4034749  0.31941545 0.41749503]
+recall: [0.418 0.306 0.42 ]
+fscore: [0.41060904 0.31256384 0.41874377]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.576565
+AUROC for  Pneumonia :  0.503878
+AUROC for  Support Devices :  0.582819
+Test results -- Loss: 2.9720 Acc: 0.1667
+precision: [0.40860215 0.36907216 0.41575492]
+recall: [0.456 0.358 0.38 ]
+fscore: [0.43100189 0.36345178 0.39707419]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.5824100000000001
+AUROC for  Pneumonia :  0.5227900000000001
+AUROC for  Support Devices :  0.6059300000000001
+Test results -- Loss: 2.9137 Acc: 0.1667
+precision: [0.38431373 0.35760171 0.38049713]
+recall: [0.392 0.334 0.398]
+fscore: [0.38811881 0.34539814 0.38905181]
+support: [500 500 500]
+AUROC for  Pleural Other :  0.562742
+AUROC for  Pneumonia :  0.521196
+AUROC for  Support Devices :  0.5707099999999999
+For Protonet_ECA
+
+Mean AUROC of  Pleural Other :  0.5721 
+ Std AUROC of  Pleural Other : 0.0108
+Mean AUROC of  Pneumonia :  0.5117 
+ Std AUROC of  Pneumonia : 0.0127
+Mean AUROC of  Support Devices :  0.5889 
+ Std AUROC of  Support Devices : 0.014

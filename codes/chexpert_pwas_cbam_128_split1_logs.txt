@@ -1,0 +1,152 @@
+Time to load train arrays
+Time to load train arrays
+Time to load train arrays
+<class 'numpy.ndarray'>
+<class 'list'>
+['Cardiomegaly', 'Lung Opacity', 'No Finding']
+Best Model:  1
+Test results -- Loss: 6.5768 Acc: 0.3333
+precision: [0.38932039 0.37945066 0.47112462]
+recall: [0.401 0.373 0.465]
+fscore: [0.39507389 0.37619768 0.46804227]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5737055
+AUROC for  Lung Opacity :  0.56707675
+AUROC for  No Finding :  0.6761535
+Cardiomegaly :  0.5737055
+Lung Opacity :  0.56707675
+No Finding :  0.6761535
+
+
+Best Model:  2
+Test results -- Loss: 6.6098 Acc: 0.3333
+precision: [0.38944223 0.40162272 0.50792079]
+recall: [0.391 0.396 0.513]
+fscore: [0.39021956 0.39879154 0.51044776]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.574209
+AUROC for  Lung Opacity :  0.5857589999999999
+AUROC for  No Finding :  0.6976325
+Cardiomegaly :  0.574209
+Lung Opacity :  0.5857589999999999
+No Finding :  0.6976325
+
+
+Best Model:  3
+Test results -- Loss: 6.5835 Acc: 0.3333
+precision: [0.38593156 0.40223464 0.4985755 ]
+recall: [0.406 0.36  0.525]
+fscore: [0.3957115  0.37994723 0.51144666]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5706374999999999
+AUROC for  Lung Opacity :  0.5661419999999999
+AUROC for  No Finding :  0.6863509999999999
+Cardiomegaly :  0.5706374999999999
+Lung Opacity :  0.5661419999999999
+No Finding :  0.6863509999999999
+
+
+Best Model:  4
+Test results -- Loss: 6.6202 Acc: 0.3333
+precision: [0.39197531 0.40922768 0.47332687]
+recall: [0.381 0.408 0.488]
+fscore: [0.38640974 0.40861292 0.48055145]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5539284999999999
+AUROC for  Lung Opacity :  0.582832
+AUROC for  No Finding :  0.6557145000000001
+Cardiomegaly :  0.5539284999999999
+Lung Opacity :  0.582832
+No Finding :  0.6557145000000001
+
+
+Best Model:  5
+Test results -- Loss: 6.6178 Acc: 0.3333
+precision: [0.38631791 0.39503619 0.46005775]
+recall: [0.384 0.382 0.478]
+fscore: [0.38515547 0.38840874 0.46885728]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5657675
+AUROC for  Lung Opacity :  0.568785
+AUROC for  No Finding :  0.650169
+Cardiomegaly :  0.5657675
+Lung Opacity :  0.568785
+No Finding :  0.650169
+
+
+Best Model:  6
+Test results -- Loss: 6.5879 Acc: 0.3333
+precision: [0.38235294 0.40933192 0.47712418]
+recall: [0.377 0.386 0.511]
+fscore: [0.3796576  0.39732373 0.49348141]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.565221
+AUROC for  Lung Opacity :  0.5875635
+AUROC for  No Finding :  0.6676129999999999
+Cardiomegaly :  0.565221
+Lung Opacity :  0.5875635
+No Finding :  0.6676129999999999
+
+
+Best Model:  7
+Test results -- Loss: 6.5834 Acc: 0.3333
+precision: [0.38781163 0.4010929  0.48303393]
+recall: [0.42  0.367 0.484]
+fscore: [0.40326452 0.38328982 0.48351648]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5733969999999999
+AUROC for  Lung Opacity :  0.575189
+AUROC for  No Finding :  0.6694519999999999
+Cardiomegaly :  0.5733969999999999
+Lung Opacity :  0.575189
+No Finding :  0.6694519999999999
+
+
+Best Model:  8
+Test results -- Loss: 6.5887 Acc: 0.3333
+precision: [0.40508806 0.38080169 0.49417476]
+recall: [0.414 0.361 0.509]
+fscore: [0.40949555 0.37063655 0.50147783]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5887875
+AUROC for  Lung Opacity :  0.5638424999999999
+AUROC for  No Finding :  0.6855095
+Cardiomegaly :  0.5887875
+Lung Opacity :  0.5638424999999999
+No Finding :  0.6855095
+
+
+Best Model:  9
+Test results -- Loss: 6.5763 Acc: 0.3333
+precision: [0.3910939  0.3907075  0.49901961]
+recall: [0.404 0.37  0.509]
+fscore: [0.3974422  0.38007191 0.5039604 ]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.5699005
+AUROC for  Lung Opacity :  0.57559125
+AUROC for  No Finding :  0.6931295
+Cardiomegaly :  0.5699005
+Lung Opacity :  0.57559125
+No Finding :  0.6931295
+
+
+Best Model:  10
+Test results -- Loss: 6.5678 Acc: 0.3333
+precision: [0.38544739 0.40696517 0.51124744]
+recall: [0.392 0.409 0.5  ]
+fscore: [0.38869608 0.40798005 0.50556117]
+support: [1000 1000 1000]
+AUROC for  Cardiomegaly :  0.568742
+AUROC for  Lung Opacity :  0.592964
+AUROC for  No Finding :  0.6973710000000001
+Cardiomegaly :  0.568742
+Lung Opacity :  0.592964
+No Finding :  0.6973710000000001
+
+
+Mean AUROC of  Cardiomegaly :  0.5704 
+ Std AUROC of  Cardiomegaly : 0.0083
+Mean AUROC of  Lung Opacity :  0.5766 
+ Std AUROC of  Lung Opacity : 0.0097
+Mean AUROC of  No Finding :  0.6779 
+ Std AUROC of  No Finding : 0.016

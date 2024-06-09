@@ -1,0 +1,15 @@
+Time to load train arrays
+Time to load train arrays
+Time to load train arrays
+['Pneumonia', 'Pneumonia', 'Pneumonia', 'Pneumonia', 'Pneumonia', 'Atelectasis', 'Atelectasis', 'Atelectasis', 'Atelectasis', 'Atelectasis', 'Hernia', 'Hernia', 'Hernia', 'Hernia', 'Hernia']
+Model:  1
+Epoch 1 Train -- Loss: 5.6957 Acc: 0.1397
+Val Results -- Loss: 3.4778 Acc: 0.4385
+
+
+Epoch 2 Train -- Loss: 4.1431 Acc: 0.1559
+Prev Val Results -- Loss: 3.4778 Acc: 0.4385
+0.030687770843505824
+Val Results -- Loss: 3.4471 Acc: 0.4712
+
+
