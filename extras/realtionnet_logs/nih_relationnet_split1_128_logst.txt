@@ -1,0 +1,9 @@
+Time to load train arrays
+(array(['Consolidation', 'Effusion', 'Fibrosis', 'Infiltration', 'Mass',
+       'No Finding', 'Nodule', 'Pleural_Thickening', 'Pneumothorax'],
+      dtype='<U18'), array([ 1310,  3955,   727,  9547,  2139, 10000,  2705,  1126,  2194]))
+Time to load train arrays
+(array(['Atelectasis', 'Hernia', 'Pneumonia'], dtype='<U11'), array([4215,  110,  322]))
+Time to load train arrays
+(array(['Cardiomegaly', 'Edema', 'Emphysema'], dtype='<U12'), array([1093,  628,  892]))
+Model:  1
